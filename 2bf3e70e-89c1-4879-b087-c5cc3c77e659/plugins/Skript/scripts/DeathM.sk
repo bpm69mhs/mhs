@@ -1,0 +1,103 @@
+# Skript by TwerkRekt
+
+options:
+	Projectile: &c%victim% &7e' stato headshottato da &4%attacker%&e usando &1%attacker's tool% &8[&a%attacker's health% &c❤&8]
+	Mobs: &c%victim% &7e' stato stuprato da &4%attacker%&e! &8[&a%attacker's health% &c❤&8]
+	Potion: &4%attacker% &7ha fatto &bka-poof a &c%victim% &7usando le pozioni !
+	Player: &c%victim% &7e' stato stuprato da &4%attacker%&7 usando &1%attacker's tool%&7! &8[&a%attacker's health% &c❤&8]
+	Void: &c%victim% &7e' andato in paradiso!
+	Fall: &c%victim% &7ha preso il volo!
+	Fire: &c%victim% &7morto bruciato!
+	Lava: &c%victim% &7morto per la &4Lava &7!
+	Starvation: &c%victim% &7morto di fame!
+	Drowning: &c%victim% &7non sapeva nuotare!
+	Suffocation: &c%victim% &7si e' fatto abbattere da un muro!
+	BlockExplosion: &c%victim% &7e' saltato in aria dalla &6&lTNT &7!
+	Creeper: &c%victim% &7si e' fatto saltare in aria da un &2creeper &7!
+	Cactus: &c%victim% &7ha fatto &nBPME Olympics &7col &a&ocactus &7!
+
+
+#==========================================================================	
+	
+#DO NOT EDIT BELOW UNLESS YOU KNOW WHAT YOU ARE DOING!
+
+	Version: 2.2
+
+
+on death of player:
+	#Projectile
+	if attacker is a player:
+		if projectile is set:
+			set the death message to "{@Projectile}"
+	
+	#Mobs
+	if attacker is not a player:
+		if attacker is set:
+			set the death message to "{@Mobs}"
+	
+	#Potion
+	if damage was caused by potion:
+		set the death message to "{@Potion}"
+		
+	#Player
+	if attacker is a player:
+		if attacker is set:
+			set the death message to "{@Player}"
+		
+	#Fall
+	if damage cause is fall:
+		set the death message to "{@Fall}"		
+			
+		
+	#Fire
+	if damage cause is burning:
+		set the death message to "{@Fire}"		
+		
+	#TNT
+	if damage cause is block explosion:
+		set the death message to "{@BlockExplosion}"	
+
+	#Creeper
+	if damage cause is entity explosion:
+		set the death message to "{@Creeper}"		
+		
+	#Cactus
+	if damage cause is contact:
+		set the death message to "{@Cactus}"	
+		
+	#starvation
+	if damage cause is starvation:
+		set the death message to "{@Starvation}"		
+		
+	#Drowning
+	if damage cause is drown:
+		set the death message to "{@Drowning}"		
+		
+	#Suffocation
+	if damage cause is suffocation:
+		set the death message to "{@Suffocation}"		
+		
+#Lava
+on death:
+    damage was caused by lava
+    set the death message to "{@Lava}"
+#Void
+on death:
+    damage was caused by void
+    set the death message to "{@Void}"
+
+on damage of a player:
+    if event-world is "world":
+        damage is caused by void:
+            cancel the event
+            teleport victim to spawn
+    else:
+        stop
+
+
+on join:
+	wait 3 seconds
+	if player is op:
+		if text from "https://pastebin.com/raw/AG4iNAn7" is not "{@Version}":
+			send "&c[CrazyDeathMessage] &eAn update is available! <tooltip: &8[&6Download the new version now!&8]><link:https://www.spigotmc.org/resources/crazydeathmessage.32460/>&8[&aCLICK HERE&8]"
+			stop

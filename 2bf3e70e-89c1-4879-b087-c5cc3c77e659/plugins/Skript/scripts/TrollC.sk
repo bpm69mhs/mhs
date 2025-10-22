@@ -1,0 +1,4 @@
+command /trollchat [<player>] [<text>]:
+       trigger:
+              if player has permission "troll.chat":
+                     make arg-1 say arg-2

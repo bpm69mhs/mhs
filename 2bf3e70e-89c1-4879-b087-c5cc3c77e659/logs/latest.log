@@ -288,3 +288,1650 @@
 [14:46:42] [Async Chat Thread - #32/INFO]: [Not Secure] <RRhypz> jeremy negro
 [14:49:58] [Async Chat Thread - #34/INFO]: [Not Secure] <RRhypz> jeremy negro
 [14:57:04] [Server thread/INFO]: kebaboba was slain by Iron Golem
+[15:01:37] [Async Chat Thread - #36/INFO]: [Not Secure] <RRhypz> pano
+[15:01:39] [Async Chat Thread - #36/INFO]: [Not Secure] <RRhypz> nigga
+[15:11:46] [User Authenticator #10/INFO]: UUID of player B0B01K4 is 97eff7b5-1c0b-3772-89d0-15a77582ded8
+[15:11:47] [Server thread/INFO]: B0B01K4 joined the game
+[15:11:47] [Server thread/INFO]: B0B01K4[/172.18.0.1:36436] logged in with entity id 178822 at ([world]-208.60351473850372, 69.41999998688698, 25.21691060140605)
+[15:12:29] [Async Chat Thread - #38/INFO]: [Not Secure] <RRhypz> dane negro
+[15:12:31] [Async Chat Thread - #38/INFO]: [Not Secure] <RRhypz> dane niggaz
+[15:19:25] [Async Chat Thread - #40/INFO]: [Not Secure] <RRhypz> angelo gago
+[15:19:31] [Async Chat Thread - #40/INFO]: [Not Secure] <B0B01K4> rhypz negro
+[15:25:23] [Async Chat Thread - #42/INFO]: [Not Secure] <RRhypz> niggerz
+[15:27:02] [Server thread/INFO]: Janraion lost connection: Disconnected
+[15:27:02] [Server thread/INFO]: Janraion left the game
+[15:29:52] [User Authenticator #11/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[15:29:52] [Server thread/INFO]: Janraion joined the game
+[15:29:52] [Server thread/INFO]: Janraion[/172.18.0.1:33536] logged in with entity id 189074 at ([world]-216.93432978495272, 69.5625, 92.31059127492668)
+[15:29:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/189076, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.92, z=93.27, cpos=[-14, 5], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/189077, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.98, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[15:29:52] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[15:29:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/189076, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.92, z=93.27, cpos=[-14, 5], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/189078, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[15:29:52] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[15:36:50] [Async Chat Thread - #44/INFO]: [Not Secure] <RRhypz> niggerz
+[15:36:52] [Async Chat Thread - #44/INFO]: [Not Secure] <RRhypz> niggerz
+[15:40:21] [Server thread/INFO]: [Skript] Reloading TrollC.sk...
+[15:40:22] [Server thread/INFO]: Successfully reloaded TrollC.sk. (153ms)
+[15:40:28] [Server thread/INFO]: [Skript] Reloading DeathM.sk...
+[15:40:29] [Server thread/INFO]: Line 101: (DeathM.sk)
+[15:40:29] [Server thread/INFO]:     "https://pastebin.com/raw/AG4iNAn7" is not a date
+[15:40:29] [Server thread/INFO]:     Line: if text from "https://pastebin.com/raw/AG4iNAn7" is not "{@Version}":
+[15:40:29] [Server thread/INFO]:  
+[15:40:29] [Server thread/INFO]:     Encountered 1 error while reloading DeathM.sk! (658ms)
+[15:41:18] [Server thread/WARN]: [PlugManX] Failed to read descriptor for PlugManX-3.0.2.jar - skipping
+[15:41:18] [Server thread/INFO]: [PlugMan] Could not find file and failed to search descriptions.
+[15:41:24] [Server thread/INFO]: [PlugManX] Attempting to load plugins/EssentialsX-2.22.0-dev+40-150dabb.jar
+[15:41:24] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+40-150dabb
+[15:41:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+40-150dabb
+[15:41:25] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
+[15:41:25] [Server thread/ERROR]: [Essentials] Unable to make msg-backups dir?!
+[15:41:25] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214443046583-704152108upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214443046583-704152108upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214443046583-704152108upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:25] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214454335558390600897upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214454335558390600897upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214454335558390600897upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:25] [Server thread/ERROR]: [Essentials] [disabled-commands, 0] of type java.lang.String: Value must be provided as a scalar!
+com.earth2me.essentials.libs.configurate.serialize.SerializationException: [disabled-commands, 0] of type java.lang.String: Value must be provided as a scalar!
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.ScalarSerializer.deserialize(ScalarSerializer.java:107) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.AbstractListChildSerializer.deserialize(AbstractListChildSerializer.java:61) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.TypeSerializer$Annotated.deserialize(TypeSerializer.java:182) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.AbstractConfigurationNode.get0(AbstractConfigurationNode.java:204) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.AbstractConfigurationNode.get(AbstractConfigurationNode.java:162) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.ConfigurationNode.getList(ConfigurationNode.java:756) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.EssentialsConfiguration.getList(EssentialsConfiguration.java:171) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings._getDisabledCommands(Settings.java:370) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings.reloadConfig(Settings.java:819) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings.<init>(Settings.java:162) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:264) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[15:41:25] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214539774837-1948616110upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214539774837-1948616110upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214539774837-1948616110upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:25] [Server thread/ERROR]: [Essentials] Error while loading Name->UUID cache
+java.io.IOException: Permission denied
+	at java.base/java.io.UnixFileSystem.createFileExclusively0(Native Method) ~[?:?]
+	at java.base/java.io.UnixFileSystem.createFileExclusively(UnixFileSystem.java:258) ~[?:?]
+	at java.base/java.io.File.createNewFile(File.java:1045) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.loadCache(ModernUUIDCache.java:134) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.<init>(ModernUUIDCache.java:56) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUserMap.<init>(ModernUserMap.java:36) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:274) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/ERROR]: [Essentials] Error while loading UUID cache
+java.io.IOException: Permission denied
+	at java.base/java.io.UnixFileSystem.createFileExclusively0(Native Method) ~[?:?]
+	at java.base/java.io.UnixFileSystem.createFileExclusively(UnixFileSystem.java:258) ~[?:?]
+	at java.base/java.io.File.createNewFile(File.java:1045) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.loadCache(ModernUUIDCache.java:162) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.<init>(ModernUUIDCache.java:56) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUserMap.<init>(ModernUserMap.java:36) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:274) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:41:25] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:41:25] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[15:41:25] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[15:41:25] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[15:41:25] [Server thread/INFO]: [Essentials] Done converting random teleport config.
+[15:41:25] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214560403548311951630upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214560403548311951630upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214560403548311951630upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:25] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214561259505-326810390upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214561259505-326810390upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18214561259505-326810390upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[15:41:25] [Server thread/ERROR]: [Essentials] Failed to write config plugins/Essentials/worth.yml.
+java.nio.file.AccessDeniedException: plugins/Essentials/worth.yml
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3153) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.EssentialsConfiguration.load(EssentialsConfiguration.java:383) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Worth.<init>(Worth.java:22) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:297) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[15:41:25] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[15:41:25] [Server thread/ERROR]: [Essentials] [disabled-commands, 0] of type java.lang.String: Value must be provided as a scalar!
+com.earth2me.essentials.libs.configurate.serialize.SerializationException: [disabled-commands, 0] of type java.lang.String: Value must be provided as a scalar!
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.ScalarSerializer.deserialize(ScalarSerializer.java:107) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.AbstractListChildSerializer.deserialize(AbstractListChildSerializer.java:61) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.TypeSerializer$Annotated.deserialize(TypeSerializer.java:182) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.AbstractConfigurationNode.get0(AbstractConfigurationNode.java:204) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.AbstractConfigurationNode.get(AbstractConfigurationNode.java:162) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.ConfigurationNode.getList(ConfigurationNode.java:756) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.EssentialsConfiguration.getList(EssentialsConfiguration.java:171) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings._getDisabledCommands(Settings.java:370) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings.reloadConfig(Settings.java:819) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.reload(Essentials.java:589) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:412) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[15:41:25] [Server thread/ERROR]: [Essentials] Failed to write config plugins/Essentials/tpr.yml.
+java.nio.file.AccessDeniedException: plugins/Essentials/tpr.yml
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3153) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.EssentialsConfiguration.load(EssentialsConfiguration.java:383) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.RandomTeleport.reloadConfig(RandomTeleport.java:49) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.reload(Essentials.java:589) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:412) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[15:41:25] [Server thread/ERROR]: [Essentials] Failed to write config plugins/Essentials/worth.yml.
+java.nio.file.AccessDeniedException: plugins/Essentials/worth.yml
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3153) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.EssentialsConfiguration.load(EssentialsConfiguration.java:383) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Worth.reloadConfig(Worth.java:160) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.reload(Essentials.java:589) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:412) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/ERROR]: [Essentials] Could not load items.json!
+java.io.FileNotFoundException: plugins/Essentials/items.json (Permission denied)
+	at java.base/java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.ManagedFile.copyResourceAscii(ManagedFile.java:57) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.ManagedFile.<init>(ManagedFile.java:47) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.items.FlatItemDb.reloadConfig(FlatItemDb.java:54) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.reload(Essentials.java:589) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:412) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/ERROR]: [Essentials] plugins/Essentials/items.json (No such file or directory)
+java.io.FileNotFoundException: plugins/Essentials/items.json (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152) ~[?:?]
+	at java.base/java.io.FileReader.<init>(FileReader.java:75) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.ManagedFile.getLines(ManagedFile.java:137) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.items.FlatItemDb.rebuild(FlatItemDb.java:64) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.items.FlatItemDb.reloadConfig(FlatItemDb.java:57) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.reload(Essentials.java:589) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:412) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/ERROR]: Error occurred while enabling Essentials v2.22.0-dev+40-150dabb (Is it up to date?)
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:165) ~[gson-2.11.0.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.items.FlatItemDb.loadJSON(FlatItemDb.java:81) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.items.FlatItemDb.rebuild(FlatItemDb.java:68) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.items.FlatItemDb.reloadConfig(FlatItemDb.java:57) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.reload(Essentials.java:589) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:412) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+40-150dabb
+[15:41:25] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[15:41:25] [Server thread/ERROR]: Error occurred while disabling Essentials v2.22.0-dev+40-150dabb
+java.lang.NullPointerException: Cannot invoke "com.earth2me.essentials.Backup.setPendingShutdown(boolean)" because the return value of "com.earth2me.essentials.Essentials.getBackup()" is null
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onDisable(Essentials.java:535) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.util.reflection.MethodAccessor.invoke(MethodAccessor.java:56) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.loadPluginWithPaper(PaperPluginManager.java:194) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.load(PaperPluginManager.java:159) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.LoadCommand.execute(LoadCommand.java:104) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:25] [Server thread/INFO]: [PlugMan] EssentialsX-2.22.0-dev+40-150dabb has been loaded and enabled.
+[15:41:35] [Server thread/INFO]: ℹ Server Plugins (13):
+[15:41:35] [Server thread/INFO]: Paper Plugins (1):
+[15:41:35] [Server thread/INFO]:  - PlugManX
+[15:41:35] [Server thread/INFO]: Bukkit Plugins (12):
+[15:41:35] [Server thread/INFO]:  - Chunky, Clumps, Essentials, Geyser-Spigot, Lusk, PriSKm, SkBee, SkinsRestorer, Skript, TAB
+[15:41:35] [Server thread/INFO]:  ViaBackwards, ViaVersion
+[15:41:38] [Server thread/WARN]: Illegal Entity Teleport ZombifiedPiglin['Zombified Piglin'/195770, uuid='6e86c5e4-cce1-4e16-8f4b-9c919a7839b1', l='ServerLevel[world]', x=-177.50, y=65.00, z=13.50, cpos=[-12, 0], tl=19, v=true] to ServerLevel[world_nether]:(-14.5, 40.0, 1.7275174212921875)
+java.lang.Throwable: null
+	at net.minecraft.world.entity.Entity.teleport(Entity.java:3984) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.world.entity.Entity.teleportCrossDimension(Entity.java:4077) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.world.entity.Entity.teleport(Entity.java:4047) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.world.entity.Entity.handlePortal(Entity.java:3487) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.world.entity.Entity.postTick(Entity.java:844) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1317) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1433) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:839) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:821) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1812) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:50] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+40-150dabb
+[15:41:50] [Server thread/WARN]: Enabled plugin with unregistered ConfiguredPluginClassLoader Essentials v2.22.0-dev+40-150dabb
+[15:41:50] [Server thread/WARN]: [Essentials] Ignoring attempt to change parent of plugin logger
+[15:41:50] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
+[15:41:50] [Server thread/ERROR]: [Essentials] Unable to make msg-backups dir?!
+[15:41:50] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394167279331870170151upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394167279331870170151upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394167279331870170151upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:50] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394257501182054296984upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394257501182054296984upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394257501182054296984upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:50] [Server thread/ERROR]: [Essentials] [disabled-commands, 0] of type java.lang.String: Value must be provided as a scalar!
+com.earth2me.essentials.libs.configurate.serialize.SerializationException: [disabled-commands, 0] of type java.lang.String: Value must be provided as a scalar!
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.ScalarSerializer.deserialize(ScalarSerializer.java:107) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.AbstractListChildSerializer.deserialize(AbstractListChildSerializer.java:61) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.serialize.TypeSerializer$Annotated.deserialize(TypeSerializer.java:182) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.AbstractConfigurationNode.get0(AbstractConfigurationNode.java:204) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.AbstractConfigurationNode.get(AbstractConfigurationNode.java:162) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.ConfigurationNode.getList(ConfigurationNode.java:756) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.EssentialsConfiguration.getList(EssentialsConfiguration.java:171) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings._getDisabledCommands(Settings.java:370) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings.reloadConfig(Settings.java:819) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Settings.<init>(Settings.java:162) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:264) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.pluginmanager.BukkitPluginManager.enable(BukkitPluginManager.java:96) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.enable(PaperPluginManager.java:62) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.EnableCommand.execute(EnableCommand.java:92) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:50] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[15:41:50] [Server thread/ERROR]: [Essentials] Error while loading Name->UUID cache
+java.io.IOException: Permission denied
+	at java.base/java.io.UnixFileSystem.createFileExclusively0(Native Method) ~[?:?]
+	at java.base/java.io.UnixFileSystem.createFileExclusively(UnixFileSystem.java:258) ~[?:?]
+	at java.base/java.io.File.createNewFile(File.java:1045) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.loadCache(ModernUUIDCache.java:134) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.<init>(ModernUUIDCache.java:56) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUserMap.<init>(ModernUserMap.java:36) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:274) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.pluginmanager.BukkitPluginManager.enable(BukkitPluginManager.java:96) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.enable(PaperPluginManager.java:62) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.EnableCommand.execute(EnableCommand.java:92) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:50] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18239439455319-822697658upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18239439455319-822697658upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.18239439455319-822697658upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:50] [Server thread/ERROR]: [Essentials] Error while loading UUID cache
+java.io.IOException: Permission denied
+	at java.base/java.io.UnixFileSystem.createFileExclusively0(Native Method) ~[?:?]
+	at java.base/java.io.UnixFileSystem.createFileExclusively(UnixFileSystem.java:258) ~[?:?]
+	at java.base/java.io.File.createNewFile(File.java:1045) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.loadCache(ModernUUIDCache.java:162) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUUIDCache.<init>(ModernUUIDCache.java:56) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.userstorage.ModernUserMap.<init>(ModernUserMap.java:36) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:274) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.pluginmanager.BukkitPluginManager.enable(BukkitPluginManager.java:96) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.enable(PaperPluginManager.java:62) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.EnableCommand.execute(EnableCommand.java:92) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:41:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:41:50] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[15:41:50] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[15:41:50] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[15:41:50] [Server thread/INFO]: [Essentials] Done converting random teleport config.
+[15:41:50] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394449527791143684822upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394449527791143684822upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394449527791143684822upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:50] [pool-34-thread-1/ERROR]: [Essentials] []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394461269461831533608upgrades-done.yml.tmp
+com.earth2me.essentials.libs.configurate.ConfigurateException: []: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394461269461831533608upgrades-done.yml.tmp
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:211) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.ConfigurationSaveTask.run(ConfigurationSaveTask.java:32) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.file.AccessDeniedException: /home/container/plugins/Essentials/.182394461269461831533608upgrades-done.yml.tmp
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.base/java.nio.file.Files.newBufferedWriter(Files.java:3001) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.atomicBufferedWriter(AtomicFiles.java:89) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AtomicFiles.lambda$atomicWriterFactory$0(AtomicFiles.java:58) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.save(AbstractConfigurationLoader.java:194) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	... 6 more
+[15:41:50] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[15:41:50] [Server thread/ERROR]: Error occurred while enabling Essentials v2.22.0-dev+40-150dabb (Is it up to date?)
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3121) ~[?:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.config.EssentialsConfiguration.load(EssentialsConfiguration.java:383) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Worth.<init>(Worth.java:22) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:297) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.pluginmanager.BukkitPluginManager.enable(BukkitPluginManager.java:96) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.enable(PaperPluginManager.java:62) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.EnableCommand.execute(EnableCommand.java:92) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:50] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+40-150dabb
+[15:41:50] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[15:41:50] [Server thread/ERROR]: Error occurred while disabling Essentials v2.22.0-dev+40-150dabb
+java.lang.NullPointerException: Cannot invoke "com.earth2me.essentials.Backup.setPendingShutdown(boolean)" because the return value of "com.earth2me.essentials.Essentials.getBackup()" is null
+	at EssentialsX-2.22.0-dev+40-150dabb.jar/com.earth2me.essentials.Essentials.onDisable(Essentials.java:535) ~[EssentialsX-2.22.0-dev+40-150dabb.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.pluginmanager.BukkitPluginManager.enable(BukkitPluginManager.java:96) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.pluginmanager.PaperPluginManager.enable(PaperPluginManager.java:62) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/core.com.rylinaux.plugman.commands.executables.EnableCommand.execute(EnableCommand.java:92) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/bukkit.com.rylinaux.plugman.commands.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:70) ~[PlugManX-3.0.2.jar:?]
+	at PlugManX-3.0.2.jar/paper.com.rylinaux.plugman.commands.PaperCommandCreator$1.execute(PaperCommandCreator.java:35) ~[PlugManX-3.0.2.jar:?]
+	at io.papermc.paper.command.brigadier.PaperCommands.lambda$register$2(PaperCommands.java:176) ~[paper-1.21.10.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:41:50] [Server thread/INFO]: [PlugMan] Essentials has been enabled.
+[15:42:56] [Server thread/ERROR]: Command exception: /list
+org.bukkit.command.CommandException: Cannot execute command 'list' in plugin Essentials v2.22.0-dev+40-150dabb - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:458) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:364) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:352) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:553) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:42:56] [Server thread/INFO]: An unexpected error occurred trying to execute that command
+[15:43:11] [Server thread/INFO]: [PlugManX] Successfully removed provider for plugin: Essentials
+[15:43:12] [Server thread/INFO]: [PlugMan] Essentials has been unloaded.
+[15:43:14] [Server thread/INFO]: Unknown or incomplete command. See below for error
+list<--[HERE]
+[15:47:57] [Async Chat Thread - #46/INFO]: [Not Secure] <RRhypz> diocane
+[16:07:10] [Server thread/INFO]: Villager Villager['Librarian'/186, uuid='878bbfd7-5c7f-43f7-ab2d-c530d1f2dc96', l='ServerLevel[world]', x=-224.70, y=69.00, z=79.50, cpos=[-15, 4], tl=390541, v=true] died, message: 'Librarian was slain by Zombie'
+[16:07:30] [Server thread/INFO]: Villager Villager['Librarian'/179556, uuid='0b857030-28d6-4768-af93-188bede5ae6c', l='ServerLevel[world]', x=-224.70, y=69.00, z=81.50, cpos=[-15, 5], tl=64584, v=true] died, message: 'Librarian was slain by Zombie'
+[16:14:57] [Async Chat Thread - #48/INFO]: [Not Secure] <RRhypz> -4721
+[16:15:04] [Async Chat Thread - #48/INFO]: [Not Secure] <RRhypz> 106
+[16:15:12] [Async Chat Thread - #48/INFO]: [Not Secure] <RRhypz> 7306
+[16:30:50] [Async Chat Thread - #50/INFO]: [Not Secure] <RRhypz> niggerz
+[16:34:37] [Server thread/INFO]: Janraion ha preso il volo!
+[16:41:13] [Server thread/INFO]: _Kape lost connection: Disconnected
+[16:41:13] [Server thread/INFO]: _Kape left the game
+[16:41:22] [Async Chat Thread - #52/INFO]: [Not Secure] <RRhypz> wallahi
+[16:41:24] [Async Chat Thread - #52/INFO]: [Not Secure] <RRhypz> nigger
+[16:42:17] [Server thread/INFO]: kebaboba has made the advancement [Minecraft: Trial(s) Edition]
+[16:47:45] [User Authenticator #12/INFO]: UUID of player Xyrenieee is 4afd7472-fc65-3e2e-a2cd-b18f30236969
+[16:47:47] [Server thread/INFO]: Xyrenieee joined the game
+[16:47:47] [Server thread/INFO]: Xyrenieee[/172.18.0.1:62354] logged in with entity id 235293 at ([world]-308.1034619954548, 63.0, 41.86162713772816)
+[16:49:55] [Async Chat Thread - #54/INFO]: [Not Secure] <B0B01K4> bading
+[16:49:56] [Async Chat Thread - #54/INFO]: [Not Secure] <Xyrenieee> bading i have many
+[16:50:08] [Async Chat Thread - #54/INFO]: [Not Secure] <Xyrenieee> i can give it to you
+[16:50:09] [Async Chat Thread - #54/INFO]: [Not Secure] <B0B01K4> pls gime some
+[16:50:17] [Async Chat Thread - #54/INFO]: [Not Secure] <Xyrenieee> here
+[16:50:25] [Async Chat Thread - #54/INFO]: [Not Secure] <B0B01K4> oh shit thx
+[16:50:36] [Async Chat Thread - #55/INFO]: [Not Secure] <Xyrenieee> eto pa
+[16:59:09] [Server thread/INFO]: Villager Villager['Villager'/242171, uuid='f279cb34-1c92-4a7b-bda9-45c39cfe00b6', l='ServerLevel[world]', x=-1480.37, y=95.50, z=-905.72, cpos=[-93, -57], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[17:01:05] [Server thread/INFO]: kebaboba ha preso il volo!
+[17:03:59] [Async Chat Thread - #56/INFO]: [Not Secure] <RRhypz> nigger
+[17:04:06] [Async Chat Thread - #56/INFO]: [Not Secure] <Xyrenieee> can someone sleep
+[17:04:10] [Async Chat Thread - #56/INFO]: [Not Secure] <RRhypz> no
+[17:04:15] [Async Chat Thread - #57/INFO]: [Not Secure] <Xyrenieee> okay :(
+[17:05:17] [ForkJoinPool.commonPool-worker-7/INFO]: [SkinsRestorer] Uploading skin, please wait... (This may take up some time)
+[17:05:19] [ForkJoinPool.commonPool-worker-7/INFO]: [SkinsRestorer] You changed the skin of RRhypz.
+[17:05:58] [ForkJoinPool.commonPool-worker-8/INFO]: [SkinsRestorer] Uploading skin, please wait... (This may take up some time)
+[17:05:58] [ForkJoinPool.commonPool-worker-8/INFO]: [SkinsRestorer] Error: Invalid skin URL or format, 
+Try uploading your skin to imgur and right click 'copy image address' 
+For guide see: https://skinsrestorer.net/skinurl.
+[17:06:31] [ForkJoinPool.commonPool-worker-8/INFO]: [SkinsRestorer] Uploading skin, please wait... (This may take up some time)
+[17:06:32] [ForkJoinPool.commonPool-worker-8/INFO]: [SkinsRestorer] You changed the skin of Xyrenieee.
+[17:07:57] [Server thread/INFO]: kebaboba si e' fatto saltare in aria da un creeper !
+[17:18:45] [Server thread/INFO]: Xyrenieee e' stato stuprato da zombie villager! [10 ❤]
+[17:18:53] [Async Chat Thread - #58/INFO]: [Not Secure] <Xyrenieee> xD
+[17:18:54] [Async Chat Thread - #58/INFO]: [Not Secure] <RRhypz> wth
+[17:18:59] [Async Chat Thread - #58/INFO]: [Not Secure] <Janraion> ayo
+[17:19:02] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> got raped
+[17:19:09] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> bro who changed my skin
+[17:19:21] [Async Chat Thread - #59/INFO]: [Not Secure] <Janraion> sus activities
+[17:19:24] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> bruh
+[17:19:27] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> ....
+[17:19:33] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> im on maid outfit
+[17:19:45] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> wth
+[17:19:47] [Async Chat Thread - #59/INFO]: [Not Secure] <B0B01K4> nooooo you dont recognize her?
+[17:20:09] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> idk i have short term memory loss
+[17:20:15] [Async Chat Thread - #59/INFO]: [Not Secure] <Janraion> crazy
+[17:20:17] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> its an anime charachter
+[17:20:24] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> sister of rem
+[17:20:29] [Async Chat Thread - #58/INFO]: [Not Secure] <Xyrenieee> i even watched hentai..
+[17:20:35] [Async Chat Thread - #58/INFO]: [Not Secure] <Janraion> XD
+[17:20:37] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> bruh wth xd
+[17:20:38] [Async Chat Thread - #58/INFO]: [Not Secure] <Xyrenieee> xD
+[17:20:43] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> its not that
+[17:20:45] [Async Chat Thread - #59/INFO]: [Not Secure] <B0B01K4> omg
+[17:20:46] [Async Chat Thread - #59/INFO]: [Not Secure] <Janraion> r
+[17:21:19] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> i never watch rem pa T^T
+[17:21:26] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> thats wht
+[17:21:28] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> why
+[17:21:30] [Async Chat Thread - #59/INFO]: [Not Secure] <Janraion> harem*
+[17:21:30] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> lol
+[17:21:34] [Async Chat Thread - #59/INFO]: [Not Secure] <B0B01K4> re:zero wtf
+[17:21:42] [Async Chat Thread - #59/INFO]: [Not Secure] <Xyrenieee> no never watched it
+[17:21:45] [Async Chat Thread - #59/INFO]: [Not Secure] <B0B01K4> omg
+[17:21:51] [Async Chat Thread - #59/INFO]: [Not Secure] <B0B01K4> go watch it then xd
+[17:21:52] [Async Chat Thread - #58/INFO]: [Not Secure] <Xyrenieee> should I?
+[17:22:17] [Async Chat Thread - #58/INFO]: [Not Secure] <Xyrenieee> i only watch high school dxd
+[17:22:22] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> ....
+[17:22:30] [Async Chat Thread - #58/INFO]: [Not Secure] <Xyrenieee> jokes on me xD
+[17:22:42] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> gooning right there
+[17:22:45] [Async Chat Thread - #58/INFO]: [Not Secure] <B0B01K4> i see
+[17:23:33] [Async Chat Thread - #58/INFO]: [Not Secure] <Xyrenieee> bruh i need costume for halloween
+[17:24:50] [Async Chat Thread - #60/INFO]: [Not Secure] <Xyrenieee> any rec for my daddy to see xD
+[17:25:00] [Async Chat Thread - #60/INFO]: [Not Secure] <B0B01K4> rem cosplay xd
+[17:25:25] [Async Chat Thread - #60/INFO]: [Not Secure] <Xyrenieee> xDDDD
+[17:25:49] [Async Chat Thread - #60/INFO]: [Not Secure] <Xyrenieee> he wants me to be ghost....
+[17:26:04] [Async Chat Thread - #60/INFO]: [Not Secure] <B0B01K4> i see what kind of ghost
+[17:26:05] [Async Chat Thread - #60/INFO]: [Not Secure] <Xyrenieee> pho king
+[17:26:22] [Async Chat Thread - #60/INFO]: [Not Secure] <Xyrenieee> pho king ghost
+[17:26:28] [Async Chat Thread - #60/INFO]: [Not Secure] <B0B01K4> mag kano ba
+[17:26:53] [Async Chat Thread - #60/INFO]: [Not Secure] <Xyrenieee> pho king with sama ng loob
+[17:27:32] [Server thread/INFO]: Xyrenieee lost connection: Disconnected
+[17:27:32] [Server thread/INFO]: Xyrenieee left the game
+[17:32:28] [Server thread/INFO]: RRhypz has completed the challenge [Return to Sender]
+[17:34:38] [Server thread/INFO]: kebaboba ha preso il volo!
+[17:42:13] [Server thread/INFO]: kebaboba has made the advancement [Those Were the Days]
+[17:46:03] [Server thread/INFO]: RRhypz has made the advancement [Those Were the Days]
+[17:46:16] [Server thread/INFO]: RRhypz has made the advancement [War Pigs]
+[17:46:41] [Server thread/INFO]: kebaboba has completed the challenge [Hot Tourist Destinations]
+[17:48:27] [Server thread/WARN]: kebaboba moved too quickly! 10.190332186242756,2.0,-1.041925159744153
+[18:02:31] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[18:02:31] [Server thread/INFO]: RRhypz left the game
+[18:03:57] [User Authenticator #13/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[18:03:58] [Server thread/INFO]: RRhypz joined the game
+[18:03:58] [Server thread/INFO]: RRhypz[/172.18.0.1:44750] logged in with entity id 291782 at ([world_nether]-558.2936869181684, 23.685509185839845, 129.71629098051895)
+[18:21:34] [User Authenticator #14/INFO]: UUID of player _Kape is 4e78921e-233f-351c-bc01-8e57fad131f5
+[18:21:34] [Server thread/INFO]: _Kape joined the game
+[18:21:34] [Server thread/INFO]: _Kape[/172.18.0.1:50774] logged in with entity id 300853 at ([world]-227.53976400827273, 72.0, -43.97677208562474)
+[18:25:20] [Async Chat Thread - #62/INFO]: [Not Secure] <RRhypz> nigerz
+[18:29:25] [Server thread/INFO]: Villager Villager['Leatherworker'/244, uuid='fe9d0202-1cda-4a49-9a8c-e5bf1101d09c', l='ServerLevel[world]', x=-185.50, y=71.44, z=6.60, cpos=[-12, 0], tl=561239, v=true] died, message: 'Leatherworker went up in flames'
+[18:34:55] [Server thread/WARN]: _Kape moved wrongly!
+[18:34:55] [Server thread/WARN]: _Kape moved wrongly!
+[18:35:40] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[18:35:40] [Server thread/INFO]: RRhypz left the game
+[18:53:19] [Server thread/INFO]: _Kape lost connection: Disconnected
+[18:53:19] [Server thread/INFO]: _Kape left the game
+[18:54:52] [User Authenticator #15/INFO]: UUID of player _Kape is 4e78921e-233f-351c-bc01-8e57fad131f5
+[18:54:53] [Server thread/INFO]: _Kape joined the game
+[18:54:53] [Server thread/INFO]: _Kape[/172.18.0.1:54308] logged in with entity id 325583 at ([world_nether]-605.907281497544, 11.0, 142.5478715138944)
+[19:01:46] [User Authenticator #16/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[19:01:47] [Server thread/INFO]: RRhypz joined the game
+[19:01:47] [Server thread/INFO]: RRhypz[/172.18.0.1:43184] logged in with entity id 333242 at ([world]-109.85394913240216, 68.0, 172.78523176822694)
+[19:05:29] [Server thread/INFO]: kebaboba lost connection: Disconnected
+[19:05:29] [Server thread/INFO]: kebaboba left the game
+[19:06:54] [User Authenticator #17/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[19:06:54] [Server thread/INFO]: kebaboba joined the game
+[19:06:54] [Server thread/INFO]: kebaboba[/172.18.0.1:60932] logged in with entity id 337234 at ([world]-214.69232968242383, 73.0, -44.70915593345398)
+[19:15:51] [Server thread/INFO]: Janraion has made the advancement [Those Were the Days]
+[19:17:47] [Async Chat Thread - #64/INFO]: [Not Secure] <_Kape> watdapak
+[19:17:51] [Async Chat Thread - #64/INFO]: [Not Secure] <B0B01K4> sory
+[19:17:55] [Async Chat Thread - #64/INFO]: [Not Secure] <_Kape> io paura ah
+[19:18:04] [Async Chat Thread - #64/INFO]: [Not Secure] <B0B01K4> chi fai
+[19:18:04] [Server thread/INFO]: kebaboba has made the advancement [Hot Stuff]
+[19:18:10] [Async Chat Thread - #64/INFO]: [Not Secure] <_Kape> lemme do 3 libeli
+[19:18:14] [Async Chat Thread - #64/INFO]: [Not Secure] <B0B01K4> okea
+[19:18:17] [Async Chat Thread - #64/INFO]: [Not Secure] <_Kape> grasi animali
+[19:18:32] [Server thread/INFO]: Janraion lost connection: Disconnected
+[19:18:32] [Server thread/INFO]: Janraion left the game
+[19:18:41] [Async Chat Thread - #64/INFO]: [Not Secure] <_Kape> che libeli stai aruel
+[19:18:43] [Async Chat Thread - #64/INFO]: [Not Secure] <_Kape> biene disc oh
+[19:21:40] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[19:21:40] [Server thread/INFO]: RRhypz left the game
+[19:23:43] [User Authenticator #18/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[19:23:43] [Server thread/INFO]: RRhypz joined the game
+[19:23:43] [Server thread/INFO]: RRhypz[/172.18.0.1:40230] logged in with entity id 346718 at ([world_nether]-205.02202966911204, 60.0, 213.30000001192093)
+[19:47:36] [User Authenticator #19/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[19:47:36] [Server thread/INFO]: Janraion joined the game
+[19:47:36] [Server thread/INFO]: Janraion[/172.18.0.1:57484] logged in with entity id 357164 at ([world_nether]1101.6515539381282, 89.0, 417.5138547766765)
+[19:47:36] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/357202, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/357204, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.98, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[19:47:36] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[19:48:43] [Server thread/INFO]: Janraion has made the advancement [War Pigs]
+[19:54:47] [Server thread/INFO]: Janraion lost connection: Disconnected
+[19:54:47] [Server thread/INFO]: Janraion left the game
+[19:55:49] [User Authenticator #20/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[19:55:49] [Server thread/INFO]: Janraion joined the game
+[19:55:49] [Server thread/INFO]: Janraion[/172.18.0.1:40926] logged in with entity id 360575 at ([world_nether]1004.7743874883461, 36.0, 565.8473367490362)
+[19:55:49] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/360585, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.98, z=93.27, cpos=[-14, 5], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/360587, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.00, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[19:55:49] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[19:56:47] [Server thread/INFO]: Janraion lost connection: Disconnected
+[19:56:47] [Server thread/INFO]: Janraion left the game
+[19:57:13] [User Authenticator #21/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[19:57:13] [Server thread/INFO]: Janraion joined the game
+[19:57:13] [Server thread/INFO]: Janraion[/172.18.0.1:50560] logged in with entity id 361109 at ([world_nether]1040.9574809254048, 40.0, 644.8559061752981)
+[19:57:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/361115, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.98, z=93.27, cpos=[-14, 5], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/361116, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.00, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[19:57:13] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[20:02:48] [Server thread/INFO]: RRhypz e' stato stuprato da piglin brute! [4.11 ❤]
+[20:07:44] [Server thread/INFO]: B0B01K4 lost connection: Disconnected
+[20:07:44] [Server thread/INFO]: B0B01K4 left the game
+[20:07:59] [User Authenticator #22/INFO]: UUID of player B0B01K4 is 97eff7b5-1c0b-3772-89d0-15a77582ded8
+[20:08:00] [Server thread/INFO]: B0B01K4 joined the game
+[20:08:00] [Server thread/INFO]: B0B01K4[/172.18.0.1:43688] logged in with entity id 368789 at ([world]-310.372982395248, 62.9375, 31.33170540190867)
+[20:08:35] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[20:08:35] [Server thread/INFO]: RRhypz left the game
+[20:10:26] [User Authenticator #23/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[20:10:27] [Server thread/INFO]: RRhypz joined the game
+[20:10:27] [Server thread/INFO]: RRhypz[/172.18.0.1:36396] logged in with entity id 369996 at ([world]-223.7990709493269, 70.0, 7.4258134546835715)
+[20:14:26] [Server thread/INFO]: _Kape lost connection: Disconnected
+[20:14:26] [Server thread/INFO]: _Kape left the game
+[20:14:26] [Server thread/INFO]: kebaboba lost connection: Disconnected
+[20:14:26] [Server thread/INFO]: kebaboba left the game
+[20:14:30] [User Authenticator #24/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[20:14:30] [Server thread/INFO]: kebaboba joined the game
+[20:14:30] [Server thread/INFO]: kebaboba[/172.18.0.1:35152] logged in with entity id 373588 at ([world]-886.5761815241597, 90.0, -253.74951515236904)
+[20:14:38] [User Authenticator #24/INFO]: UUID of player _Kape is 4e78921e-233f-351c-bc01-8e57fad131f5
+[20:14:38] [Server thread/INFO]: _Kape joined the game
+[20:14:38] [Server thread/INFO]: _Kape[/172.18.0.1:34698] logged in with entity id 373777 at ([world]-227.68630475070674, 77.0, -67.29737631021167)
+[20:25:35] [Server thread/INFO]: Janraion has made the advancement [Who is Cutting Onions?]
+[20:28:50] [Server thread/WARN]: kebaboba was kicked for floating too long!
+[20:28:50] [Server thread/INFO]: kebaboba lost connection: Flying is not enabled on this server
+[20:28:50] [Server thread/INFO]: kebaboba left the game
+[20:28:56] [User Authenticator #25/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[20:28:56] [Server thread/INFO]: kebaboba joined the game
+[20:28:56] [Server thread/INFO]: kebaboba[/172.18.0.1:56304] logged in with entity id 382498 at ([world]208.59998388017496, 102.84610397459554, 113.39410377994602)
+[20:42:45] [Server thread/WARN]: kebaboba moved too quickly! 9.537087783717979,1.1661092609382138,-14.245521405838431
+[20:48:35] [Server thread/INFO]: Janraion has completed the challenge [Cover Me in Debris]
+[20:55:52] [Server thread/INFO]: Villager Villager['Farmer'/176527, uuid='8403055d-dfca-4ef4-92f3-9896d2956fe7', l='ServerLevel[world]', x=-332.51, y=63.00, z=33.54, cpos=[-21, 2], tl=418942, v=true] died, message: 'Farmer was slain by Zombie'
+[21:02:25] [Server thread/INFO]: _Kape has completed the challenge [Cover Me in Debris]
+[21:05:34] [Async Chat Thread - #66/INFO]: [Not Secure] <RRhypz> dionegro
+[21:06:07] [Server thread/WARN]: kebaboba moved wrongly!
+[21:20:44] [Server thread/INFO]: Villager Villager['Librarian'/375732, uuid='98183953-07be-4b13-bd06-c680ec44946b', l='ServerLevel[world]', x=-211.58, y=69.00, z=80.34, cpos=[-14, 5], tl=76917, v=true] died, message: 'Librarian was slain by Janraion'
+[21:22:24] [Server thread/INFO]: Janraion lost connection: Disconnected
+[21:22:24] [Server thread/INFO]: Janraion left the game
+[21:22:26] [User Authenticator #26/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[21:22:26] [Server thread/INFO]: Janraion joined the game
+[21:22:26] [Server thread/INFO]: Janraion[/172.18.0.1:46294] logged in with entity id 403140 at ([world]-208.37845877058518, 69.0, 82.69999998807907)
+[21:22:31] [Server thread/INFO]: Janraion lost connection: Disconnected
+[21:22:31] [Server thread/INFO]: Janraion left the game
+[21:25:04] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[21:25:04] [Server thread/INFO]: RRhypz left the game
+[21:38:00] [User Authenticator #27/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[21:38:00] [Server thread/INFO]: Janraion joined the game
+[21:38:00] [Server thread/INFO]: Janraion[/172.18.0.1:55956] logged in with entity id 408594 at ([world]-208.81857999954792, 69.5625, 80.68430676960453)
+[21:42:11] [User Authenticator #28/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[21:42:11] [Server thread/INFO]: Connection closed during protocol change
+[21:42:11] [Server thread/INFO]: Connection closed during protocol change
+[21:42:11] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[21:42:11] [Server thread/INFO]: RRhypz left the game
+[21:42:40] [Server thread/INFO]: B0B01K4 e' stato stuprato da zombie! [9.04 ❤]
+[21:42:47] [User Authenticator #28/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[21:42:47] [Server thread/INFO]: RRhypz joined the game
+[21:42:47] [Server thread/INFO]: RRhypz[/172.18.0.1:33710] logged in with entity id 410867 at ([world]-119.54455639501906, 66.0, 179.39788987720144)
+[21:43:27] [User Authenticator #28/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:43:27] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:34974
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:43:27] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:43:27] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:34974) lost connection: Internal server error
+[21:44:03] [User Authenticator #28/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:44:03] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:54648
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:44:03] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:44:03] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:54648) lost connection: Internal server error
+[21:44:21] [User Authenticator #28/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:44:21] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:34940
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:44:21] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:44:21] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:34940) lost connection: Internal server error
+[21:44:47] [Server thread/INFO]: Janraion lost connection: Disconnected
+[21:44:47] [Server thread/INFO]: Janraion left the game
+[21:46:19] [User Authenticator #29/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:46:19] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:48662
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:19] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:19] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:48662) lost connection: Internal server error
+[21:46:31] [User Authenticator #29/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:46:31] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:53900
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:31] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:31] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:53900) lost connection: Internal server error
+[21:46:32] [Server thread/INFO]: _Kape has made the advancement [Ice Bucket Challenge]
+[21:46:41] [User Authenticator #29/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:46:41] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:37268
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:41] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:41] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:37268) lost connection: Internal server error
+[21:46:59] [User Authenticator #29/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:46:59] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:34190
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:59] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:46:59] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:34190) lost connection: Internal server error
+[21:47:05] [User Authenticator #29/INFO]: UUID of player Zyre Daddy is 5c6ce7d5-3b07-3dc6-9d25-766a32cde701
+[21:47:05] [Server thread/WARN]: Failed to handle packet for /172.18.0.1:49812
+java.lang.IllegalArgumentException: The name of the profile contains invalid characters: Zyre Daddy
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-33.3.1-jre.jar:?]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.createAuthLibProfile(CraftPlayerProfile.java:324) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:47) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.<init>(CraftPlayerProfile.java:53) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.isWhiteListedLogin(PlayerList.java:941) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.players.PlayerList.canPlayerLogin(PlayerList.java:548) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.verifyLoginAndFinishConnectionSetup(ServerLoginPacketListenerImpl.java:208) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:96) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.tick(Connection.java:597) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:264) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1862) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:552) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1826) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:47:05] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:13) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:27) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:718) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:490) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:475) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:405) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:47:05] [Server thread/INFO]: Zyre Daddy (/172.18.0.1:49812) lost connection: Internal server error
+[21:48:04] [User Authenticator #29/INFO]: UUID of player Zyre_8==Daddy is f109d07d-2ce1-3520-8ced-f7c8162f2c7e
+[21:48:04] [Server thread/INFO]: Zyre_8==Daddy joined the game
+[21:48:04] [Server thread/INFO]: Zyre_8==Daddy[/172.18.0.1:57350] logged in with entity id 413145 at ([world]6.5, 88.0, 4.5)
+[21:48:17] [Server thread/INFO]: Zyre_8==Daddy lost connection: Disconnected
+[21:48:17] [Server thread/INFO]: Zyre_8==Daddy left the game
+[21:55:59] [Async Chat Thread - #68/INFO]: [Not Secure] <RRhypz> niggerz
+[22:03:17] [User Authenticator #30/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[22:03:18] [Server thread/INFO]: Janraion joined the game
+[22:03:18] [Server thread/INFO]: Janraion[/172.18.0.1:49022] logged in with entity id 418009 at ([world]-207.30000001192093, 69.875, 77.84575864388258)
+[22:07:08] [Async Chat Thread - #70/INFO]: [Not Secure] <RRhypz> niggerz
+[22:07:13] [Async Chat Thread - #70/INFO]: [Not Secure] <RRhypz> jeremy negro
+[22:09:26] [Server thread/INFO]: Janraion lost connection: Disconnected
+[22:09:26] [Server thread/INFO]: Janraion left the game
+[22:09:46] [User Authenticator #31/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[22:09:47] [Server thread/INFO]: Janraion joined the game
+[22:09:47] [Server thread/INFO]: Janraion[/172.18.0.1:59850] logged in with entity id 420082 at ([world]-210.18154920272102, 69.5625, 76.33669724939803)
+[22:10:35] [Server thread/INFO]: Janraion lost connection: Disconnected
+[22:10:35] [Server thread/INFO]: Janraion left the game
+[22:11:35] [User Authenticator #32/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[22:11:36] [Server thread/INFO]: Janraion joined the game
+[22:11:36] [Server thread/INFO]: Janraion[/172.18.0.1:44944] logged in with entity id 420761 at ([world]-208.11169329471934, 69.5625, 79.79668811549259)
+[22:11:52] [Server thread/INFO]: Janraion lost connection: Disconnected
+[22:11:52] [Server thread/INFO]: Janraion left the game
+[22:12:46] [User Authenticator #33/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[22:12:47] [Server thread/INFO]: Janraion joined the game
+[22:12:47] [Server thread/INFO]: Janraion[/172.18.0.1:58544] logged in with entity id 421283 at ([world]-209.94861940517063, 69.5625, 78.85985358718276)
+[22:17:21] [Server thread/INFO]: RRhypz was kicked due to keepalive timeout!
+[22:17:21] [Server thread/INFO]: RRhypz lost connection: Timed out
+[22:17:21] [Server thread/INFO]: RRhypz left the game
+[22:17:21] [Server thread/INFO]: Janraion was kicked due to keepalive timeout!
+[22:17:21] [Server thread/INFO]: Janraion lost connection: Timed out
+[22:17:21] [Server thread/INFO]: Janraion left the game
+[22:17:21] [Server thread/INFO]: B0B01K4 was kicked due to keepalive timeout!
+[22:17:21] [Server thread/INFO]: B0B01K4 lost connection: Timed out
+[22:17:21] [Server thread/INFO]: B0B01K4 left the game
+[22:17:21] [Server thread/INFO]: _Kape was kicked due to keepalive timeout!
+[22:17:21] [Server thread/INFO]: _Kape lost connection: Timed out
+[22:17:21] [Server thread/INFO]: _Kape left the game
+[22:17:21] [Server thread/INFO]: kebaboba was kicked due to keepalive timeout!
+[22:17:21] [Server thread/INFO]: kebaboba lost connection: Timed out
+[22:17:21] [Server thread/INFO]: kebaboba left the game
+[22:17:51] [User Authenticator #34/INFO]: UUID of player B0B01K4 is 97eff7b5-1c0b-3772-89d0-15a77582ded8
+[22:17:52] [Server thread/INFO]: B0B01K4 joined the game
+[22:17:52] [Server thread/INFO]: B0B01K4[/172.18.0.1:50240] logged in with entity id 423032 at ([world]-322.69999998807907, 64.0, 34.710620017164196)
+[22:18:25] [User Authenticator #34/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[22:18:25] [Server thread/INFO]: RRhypz joined the game
+[22:18:25] [Server thread/INFO]: RRhypz[/172.18.0.1:48216] logged in with entity id 423413 at ([world]-269.30000001192093, 68.0, 38.76835381691134)
+[22:19:02] [User Authenticator #34/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[22:19:03] [Server thread/INFO]: Janraion joined the game
+[22:19:03] [Server thread/INFO]: Janraion[/172.18.0.1:51300] logged in with entity id 423517 at ([world]-202.45832455324356, 69.12838404954839, 86.44286010290354)
