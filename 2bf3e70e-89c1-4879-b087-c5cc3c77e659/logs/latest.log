@@ -182,3 +182,108 @@
 [10:43:32] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 45f43ea9-8160-480e-964d-9dae92179b2a, mapped to Bat['Bat'/1265, uuid='45f43ea9-8160-480e-964d-9dae92179b2a', l='ServerLevel[world]', x=-356.25, y=-33.19, z=-31.75, cpos=[-23, -2], tl=0, v=true], can't add Bat['Bat'/1270, uuid='45f43ea9-8160-480e-964d-9dae92179b2a', l='ServerLevel[world]', x=-354.57, y=-32.42, z=-32.60, cpos=[-23, -3], tl=0, v=false]
 [10:43:47] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 89145d08-eca9-47a0-803e-a43870720387, mapped to Bat['Bat'/1364, uuid='89145d08-eca9-47a0-803e-a43870720387', l='ServerLevel[world]', x=-319.84, y=-20.04, z=185.44, cpos=[-20, 11], tl=0, v=true], can't add Bat['Bat'/1366, uuid='89145d08-eca9-47a0-803e-a43870720387', l='ServerLevel[world]', x=-321.31, y=-20.09, z=186.25, cpos=[-21, 11], tl=0, v=false]
 [10:46:44] [Async Chat Thread - #1/INFO]: [Not Secure] <RRhypz> fuckin niggers
+[10:55:10] [User Authenticator #2/INFO]: UUID of player _Kape is 4e78921e-233f-351c-bc01-8e57fad131f5
+[10:55:10] [Server thread/INFO]: _Kape joined the game
+[10:55:10] [Server thread/INFO]: _Kape[/172.18.0.1:58004] logged in with entity id 4353 at ([world]-319.1324821568009, 67.0, 34.412674881535025)
+[10:57:13] [Async Chat Thread - #2/INFO]: [Not Secure] <RRhypz> pokin niggers
+[10:58:12] [Server thread/INFO]: _Kape has made the advancement [Not Today, Thank You]
+[11:06:12] [Server thread/INFO]: _Kape has made the advancement [Hot Stuff]
+[11:10:34] [User Authenticator #3/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[11:10:34] [Server thread/INFO]: Janraion joined the game
+[11:10:34] [Server thread/INFO]: Janraion[/172.18.0.1:49130] logged in with entity id 10530 at ([world]-216.68550989106146, 69.0, 91.01751580558721)
+[11:10:34] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/206, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=38048, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/10533, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[11:10:34] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[11:10:34] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/206, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=38048, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/10534, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.92, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[11:10:34] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[11:23:46] [Server thread/INFO]: RRhypz has made the advancement [Hidden in the Depths]
+[11:33:22] [User Authenticator #4/INFO]: UUID of player Xyrenieee is 4afd7472-fc65-3e2e-a2cd-b18f30236969
+[11:33:23] [Server thread/INFO]: Xyrenieee joined the game
+[11:33:23] [Server thread/INFO]: Xyrenieee[/172.18.0.1:55521] logged in with entity id 27891 at ([world]-322.69999998807907, 64.0, 35.33325979529664)
+[11:36:02] [Async Chat Thread - #4/INFO]: [Not Secure] <Xyrenieee> hi mga bading
+[11:36:08] [Async Chat Thread - #4/INFO]: [Not Secure] <_Kape> hello bading
+[11:36:13] [Async Chat Thread - #4/INFO]: [Not Secure] <Xyrenieee> xD
+[11:36:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xyrenieee> im trans
+[11:36:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Janraion> hello hello
+[11:38:49] [Async Chat Thread - #6/INFO]: [Not Secure] <Xyrenieee> naubos sugar cane ko xD
+[11:39:35] [Async Chat Thread - #6/INFO]: [Not Secure] <Xyrenieee> you niggaz
+[11:46:44] [Server thread/INFO]: RRhypz has completed the challenge [Hot Tourist Destinations]
+[11:56:49] [Async Chat Thread - #8/INFO]: [Not Secure] <Janraion> xaero-waypoint:Villaggio Portal:V:-17:40:-1:2:false:0:Internal-the-nether
+[11:59:57] [Server thread/INFO]: RRhypz has made the advancement [Hot Stuff]
+[12:02:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Janraion> 5 mending, 3 picconi, 3 pale
+[12:02:37] [Async Chat Thread - #10/INFO]: [Not Secure] <_Kape> full set prot 4 thorns 3 unb 3 mending
+[12:02:58] [Async Chat Thread - #10/INFO]: [Not Secure] <kebaboba> crispy mc bacon
+[12:04:02] [Async Chat Thread - #12/INFO]: [Not Secure] <RRhypz> nigga jeremy
+[12:07:47] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[12:07:47] [Server thread/INFO]: RRhypz left the game
+[12:11:26] [Server thread/INFO]: Janraion lost connection: Disconnected
+[12:11:26] [Server thread/INFO]: Janraion left the game
+[12:16:40] [Server thread/INFO]: Xyrenieee lost connection: Disconnected
+[12:16:40] [Server thread/INFO]: Xyrenieee left the game
+[12:16:59] [User Authenticator #5/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[12:16:59] [Server thread/INFO]: Janraion joined the game
+[12:16:59] [Server thread/INFO]: Janraion[/172.18.0.1:55454] logged in with entity id 54397 at ([world]-215.10489323365664, 69.875, 93.7142242187869)
+[12:16:59] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/54398, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/54399, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.92, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[12:16:59] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[12:16:59] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/54398, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/54400, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.07, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[12:16:59] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[12:29:56] [Server thread/INFO]: Janraion has made the advancement [Local Brewery]
+[12:34:57] [User Authenticator #6/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[12:34:58] [Server thread/INFO]: RRhypz joined the game
+[12:34:58] [Server thread/INFO]: RRhypz[/172.18.0.1:39404] logged in with entity id 59708 at ([world]-213.5499417784411, 70.0, -21.41894120609673)
+[12:39:58] [Async Chat Thread - #14/INFO]: [Not Secure] <RRhypz> jeremy nigga
+[12:50:38] [Async Chat Thread - #16/INFO]: [Not Secure] <_Kape> sci lai scibo
+[12:50:45] [Async Chat Thread - #16/INFO]: [Not Secure] <_Kape> arigato
+[12:50:48] [Async Chat Thread - #16/INFO]: [Not Secure] <RRhypz> nigga
+[12:55:14] [Async Chat Thread - #18/INFO]: [Not Secure] <_Kape> mi si sta per distrugge il piccone e manco un casso di nether quartz
+[12:55:16] [Async Chat Thread - #18/INFO]: [Not Secure] <_Kape> porko putano
+[12:55:30] [Async Chat Thread - #18/INFO]: [Not Secure] <Janraion> XD
+[12:55:45] [Async Chat Thread - #18/INFO]: [Not Secure] <_Kape> l'avete pinito boi porko putano
+[12:55:58] [Async Chat Thread - #18/INFO]: [Not Secure] <_Kape> arigato
+[12:58:06] [Server thread/INFO]: kebaboba lost connection: Disconnected
+[12:58:06] [Server thread/INFO]: kebaboba left the game
+[12:58:18] [Async Chat Thread - #20/INFO]: [Not Secure] <_Kape> come casso esco ora
+[12:58:50] [Async Chat Thread - #21/INFO]: [Not Secure] <_Kape> paken niga
+[12:59:27] [Async Chat Thread - #21/INFO]: [Not Secure] <_Kape> chi serbe netherrak
+[13:01:22] [User Authenticator #7/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[13:01:23] [Server thread/INFO]: kebaboba joined the game
+[13:01:23] [Server thread/INFO]: kebaboba[/172.18.0.1:39294] logged in with entity id 71268 at ([world]-80.5614074819968, 69.0, 82.9516083364369)
+[13:03:01] [Async Chat Thread - #22/INFO]: [Not Secure] <RRhypz> janraion nigga
+[13:03:05] [Async Chat Thread - #22/INFO]: [Not Secure] <_Kape> janraion gae
+[13:03:17] [Async Chat Thread - #22/INFO]: [Not Secure] <Janraion> aruel professional console masturbator
+[13:03:42] [Async Chat Thread - #22/INFO]: [Not Secure] <_Kape> jeremy certified conoisseur feet smeller
+[13:09:58] [Server thread/INFO]: Villager Villager['Weaponsmith'/212, uuid='1f369b5e-b4d7-4199-abdf-f6a5d0d4479a', l='ServerLevel[world]', x=-192.30, y=70.00, z=73.30, cpos=[-13, 4], tl=181298, v=true] died, message: 'Weaponsmith was slain by Janraion'
+[13:12:11] [Server thread/INFO]: kebaboba lost connection: Disconnected
+[13:12:11] [Server thread/INFO]: kebaboba left the game
+[13:12:31] [Async Chat Thread - #24/INFO]: [Not Secure] <Janraion> do not sleep ty
+[13:15:28] [Server thread/INFO]: _Kape has made the advancement [Hidden in the Depths]
+[13:17:45] [Server thread/INFO]: Villager Villager['Toolsmith'/199, uuid='28d7e51a-40fd-49f8-bf32-dd5f397c759a', l='ServerLevel[world]', x=-192.30, y=70.00, z=81.50, cpos=[-13, 5], tl=190112, v=true] died, message: 'Toolsmith was slain by Zombie'
+[13:17:53] [Server thread/INFO]: Villager Villager['Toolsmith'/211, uuid='4f31fe53-5448-40af-a92d-eddb093239fa', l='ServerLevel[world]', x=-192.30, y=70.00, z=79.50, cpos=[-13, 4], tl=190273, v=true] died, message: 'Toolsmith was slain by Zombie'
+[13:18:00] [Server thread/INFO]: Villager Villager['Armorer'/210, uuid='e0bcec89-619f-4695-878d-4cc13ed47f20', l='ServerLevel[world]', x=-192.30, y=70.00, z=77.50, cpos=[-13, 4], tl=190415, v=true] died, message: 'Armorer was slain by Zombie'
+[13:18:50] [Server thread/INFO]: Villager Villager['Farmer'/213, uuid='e0b15f58-cfc7-430e-814a-c6e5d1c5bca4', l='ServerLevel[world]', x=-192.30, y=70.00, z=73.50, cpos=[-13, 4], tl=191940, v=true] died, message: 'Farmer was slain by Zombie'
+[13:18:56] [Server thread/INFO]: Villager Villager['Weaponsmith'/198, uuid='b67ca735-e440-4f8d-9e0b-3030bb41e997', l='ServerLevel[world]', x=-192.30, y=70.00, z=75.50, cpos=[-13, 4], tl=191532, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[13:23:03] [Server thread/INFO]: Janraion has reached the goal [Zombie Doctor]
+[13:25:22] [Server thread/INFO]: Janraion has made the advancement [What a Deal!]
+[13:26:06] [Async Chat Thread - #26/INFO]: [Not Secure] <RRhypz> dane negreo
+[13:41:42] [Async Chat Thread - #28/INFO]: [Not Secure] <Janraion> do not sleep
+[13:41:45] [Async Chat Thread - #28/INFO]: [Not Secure] <RRhypz> nigga
+[14:20:11] [Server thread/INFO]: Janraion lost connection: Disconnected
+[14:20:11] [Server thread/INFO]: Janraion left the game
+[14:22:42] [User Authenticator #8/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[14:22:42] [Server thread/INFO]: Janraion joined the game
+[14:22:42] [Server thread/INFO]: Janraion[/172.18.0.1:42604] logged in with entity id 147186 at ([world]-155.94928997923415, 70.0, 39.291777916556754)
+[14:22:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/147188, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.07, z=93.27, cpos=[-14, 5], tl=0, v=false], can't add ThrownEnderpearl['Thrown Ender Pearl'/147189, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.03, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[14:22:42] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[14:22:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85, mapped to ThrownEnderpearl['Thrown Ender Pearl'/147188, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=69.07, z=93.27, cpos=[-14, 5], tl=0, v=false], can't add ThrownEnderpearl['Thrown Ender Pearl'/147190, uuid='ce053a1e-1cd0-4eda-abbf-6f8a9b19ad85', l='ServerLevel[world]', x=-220.56, y=68.92, z=93.27, cpos=[-14, 5], tl=0, v=false]
+[14:22:42] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[14:23:26] [Server thread/INFO]: Villager Villager['Toolsmith'/216, uuid='71a87a62-01f3-4c5a-88f0-01a7b021feb7', l='ServerLevel[world]', x=-189.70, y=70.00, z=81.50, cpos=[-12, 5], tl=266071, v=true] died, message: 'Toolsmith was slain by Zombie'
+[14:23:36] [Server thread/INFO]: Villager Villager['Toolsmith'/214, uuid='5739c7fa-b087-46f6-b5d4-8635ced0b124', l='ServerLevel[world]', x=-189.55, y=70.00, z=79.50, cpos=[-12, 4], tl=266804, v=true] died, message: 'Toolsmith was slain by Zombie'
+[14:24:11] [Server thread/INFO]: Villager Villager['Toolsmith'/106149, uuid='3f8766a9-7a39-44b6-a671-9bb28eb53e37', l='ServerLevel[world]', x=-189.70, y=70.00, z=77.50, cpos=[-12, 4], tl=39598, v=true] died, message: 'Toolsmith was slain by Zombie'
+[14:24:32] [Server thread/INFO]: Villager Villager['Toolsmith'/197, uuid='5f83bf23-2da9-4c4c-bae6-5e9f457a6f5d', l='ServerLevel[world]', x=-189.70, y=70.00, z=75.50, cpos=[-12, 4], tl=267412, v=true] died, message: 'Toolsmith was slain by Zombie'
+[14:25:02] [Server thread/INFO]: Villager Villager['Toolsmith'/209, uuid='3bcaf172-7e1c-4946-85ab-ba6322a00f08', l='ServerLevel[world]', x=-189.70, y=70.00, z=73.50, cpos=[-12, 4], tl=268007, v=true] died, message: 'Toolsmith was slain by Zombie'
+[14:38:28] [User Authenticator #9/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[14:38:29] [Server thread/INFO]: kebaboba joined the game
+[14:38:29] [Server thread/INFO]: kebaboba[/172.18.0.1:36604] logged in with entity id 157685 at ([world]-203.7680868641719, 70.0, -17.23750001192093)
+[14:42:27] [Async Chat Thread - #30/INFO]: [Not Secure] <_Kape> barrel
+[14:42:46] [Async Chat Thread - #30/INFO]: [Not Secure] <Janraion> -15 40 1
+[14:46:42] [Async Chat Thread - #32/INFO]: [Not Secure] <RRhypz> jeremy negro
+[14:49:58] [Async Chat Thread - #34/INFO]: [Not Secure] <RRhypz> jeremy negro
