@@ -1,166 +1,184 @@
-[01:21:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-LTS; Eclipse Adoptium Temurin-21.0.8+9) on Linux 5.10.0-36-amd64 (amd64)
-[01:21:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) for Minecraft 1.21.10
-[01:21:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:21:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[01:21:33] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[10:38:22] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-LTS; Eclipse Adoptium Temurin-21.0.8+9) on Linux 5.10.0-36-amd64 (amd64)
+[10:38:22] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) for Minecraft 1.21.10
+[10:38:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:38:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[10:38:24] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - PlugManX (3.0.2)
-[01:21:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
- - Chunky (1.4.40), Clumps (5.0), Lusk (1.3.10), PriSKm (1.2.0), SkBee (3.13.0), SkinsRestorer (15.8.2), Skript (2.13.0), TAB (5.3.2)
-[01:21:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[01:21:41] [ServerMain/INFO]: Loaded 1461 recipes
-[01:21:41] [ServerMain/INFO]: Loaded 1574 advancements
-[01:21:41] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[01:21:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 652.1ms
-[01:21:42] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[01:21:42] [Server thread/INFO]: Loading properties
-[01:21:42] [Server thread/INFO]: This server is running Paper version 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
-[01:21:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:21:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:21:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:21:43] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:21:43] [Server thread/INFO]: Default game type: SURVIVAL
-[01:21:43] [Server thread/INFO]: Generating keypair
-[01:21:43] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:14564
-[01:21:43] [Server thread/INFO]: Using epoll channel type
-[01:21:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:21:44] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:21:44] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.13.0
-[01:21:44] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v3.13.0
-[01:21:44] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
-[01:21:44] [Server thread/INFO]: [PriSKm] Loading server plugin PriSKm v1.2.0
-[01:21:44] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[01:21:44] [Server thread/INFO]: [Lusk] Loading server plugin Lusk v1.3.10
-[01:21:44] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v5.0
-[01:21:44] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.3.2
-[01:21:44] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.2
-[01:21:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:21:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
-[01:21:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.10.
-[01:21:46] [Server thread/WARN]: [SkinsRestorer] "SkinsRestorer v15.8.2" has registered a listener for org.spigotmc.event.player.PlayerSpawnLocationEvent on method "void net.skinsrestorer.shadow.cloud.bukkit.CloudBukkitListener.onPlayerLogin(org.spigotmc.event.player.PlayerSpawnLocationEvent)", but the event is Deprecated. "Listening to this event causes the player to be created early. Using the player from this event will result in undefined behavior. Prefer AsyncPlayerSpawnLocationEvent."; please notify the authors [knat, AlexProgrammerDE, Th3Tr0LLeR, McLive, DoNotSpamPls].
-[01:21:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:21:46] [Server thread/INFO]: [Clumps] Enabling Clumps v5.0
-[01:21:46] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.2
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:21:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:21:47] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[01:21:47] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
-[01:21:47] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
-[01:21:47] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
-[01:21:47] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
-[01:21:47] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[01:21:47] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
-[01:21:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:21:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:21:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:21:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:21:47] [Server thread/INFO]: Preparing level "world"
-[01:21:48] [Server thread/INFO]: Loading 49 persistent chunks for world 'minecraft:overworld'...
-[01:21:48] [Server thread/INFO]: Preparing spawn area: 16%
-[01:21:49] [Server thread/INFO]: Prepared spawn area in 1186 ms
-[01:21:49] [Server thread/INFO]: Loading 49 persistent chunks for world 'minecraft:the_nether'...
-[01:21:49] [Server thread/INFO]: Preparing spawn area: 16%
-[01:21:49] [Server thread/INFO]: Preparing spawn area: 52%
-[01:21:49] [Server thread/INFO]: Prepared spawn area in 597 ms
-[01:21:49] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
-[01:21:49] [Server thread/INFO]: Prepared spawn area in 0 ms
-[01:21:49] [Server thread/INFO]: Done preparing level "world" (2.738s)
-[01:21:49] [Server thread/INFO]: [Skript] Enabling Skript v2.13.0
-[01:21:50] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
-[01:21:52] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[01:21:52] [Server thread/INFO]: [SkBee] Enabling SkBee v3.13.0
-[01:21:52] [Server thread/INFO]: [SkBee] Registry Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Loading NBTApi...
-[01:21:53] [Server thread/INFO]: [SkBee] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
-[01:21:53] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_21_R6' loaded!
-[01:21:53] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
-[01:21:53] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Damage Source Elements disabled (now in Skript)
-[01:21:53] [Server thread/INFO]: [SkBee] Display Entity Elements disabled via config
-[01:21:53] [Server thread/INFO]: [SkBee] Fastboard[Adventure] Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Fishing Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Item Component Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Property Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] RayTrace Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
-[01:21:53] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5650 aliases in 1014ms
-[01:21:53] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] SwitchCase Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Tick Manager Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
-[01:21:53] [Server thread/INFO]: [SkBee] World Border Elements disabled (now in Skript)
-[01:21:53] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Chunk Generator Elements successfully loaded
-[01:21:53] [Server thread/INFO]: [SkBee] Loaded (427) elements:
-[01:21:53] [Server thread/INFO]: [SkBee]  - 57 events
-[01:21:53] [Server thread/INFO]: [SkBee]  - 70 effects
-[01:21:53] [Server thread/INFO]: [SkBee]  - 243 expressions
-[01:21:53] [Server thread/INFO]: [SkBee]  - 25 conditions
-[01:21:53] [Server thread/INFO]: [SkBee]  - 32 sections
-[01:21:53] [Server thread/INFO]: [SkBee]  - 11 properties
-[01:21:53] [Server thread/INFO]: [SkBee] Checking for update...
-[01:21:53] [Server thread/INFO]: [SkBee] Plugin is not up to date!
-[01:21:53] [Server thread/INFO]: [SkBee]  - Current version: v3.13.0
-[01:21:53] [Server thread/INFO]: [SkBee]  - Available update: v3.13.1
-[01:21:53] [Server thread/INFO]: [SkBee]  - Download at: https://modrinth.com/plugin/skbee/version/3.13.1
-[01:21:53] [Server thread/INFO]: [SkBee] Successfully enabled v3.13.0 in 1.29 seconds
-[01:21:53] [Server thread/INFO]: [PriSKm] Enabling PriSKm v1.2.0
-[01:21:53] [Server thread/WARN]: [PriSKm] Could not find VivecraftSpigot as an addon, cannot register syntaxes relating to VR support.
-[01:21:53] [Server thread/INFO]: [PriSKm] Successfully loaded PriSKm 1.2.0
-[01:21:53] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[01:21:53] [Server thread/INFO]: [Lusk] Enabling Lusk v1.3.10
-[01:21:54] [Server thread/INFO]: [Lusk] Loaded 363 elements:
-[01:21:54] [Server thread/INFO]: [Lusk]  - 61 events
-[01:21:54] [Server thread/INFO]: [Lusk]  - 30 effects
-[01:21:54] [Server thread/INFO]: [Lusk]  - 173 expressions
-[01:21:54] [Server thread/INFO]: [Lusk]  - 90 conditions
-[01:21:54] [Server thread/INFO]: [Lusk]  - 9 sections
-[01:21:54] [Server thread/INFO]: [Lusk] Checking for update...
-[01:21:54] [Server thread/INFO]: [Lusk] Lusk is not up to date!
-[01:21:54] [Server thread/INFO]: [Lusk] Youre running Minecraft {0} which is not supported by Lusk {1}, please update.
-[01:21:54] [Server thread/INFO]: [Lusk] Update Available:
-[01:21:54] [Server thread/INFO]: [Lusk]  »   1.3.10 → 1.3.11
-[01:21:54] [Server thread/INFO]: [Lusk]  » Download at: https://github.com/JakeGBLP/Lusk/releases
-[01:21:54] [Server thread/INFO]: [Lusk] Lusk 1.3.10 has been enabled! [0.57 seconds]
-[01:21:54] [Server thread/INFO]: [TAB] Enabling TAB v5.3.2
-[01:21:55] [Server thread/INFO]: [TAB] Enabled in 334ms
-[01:21:55] [Server thread/INFO]: [spark] Starting background profiler...
-[01:21:56] [Server thread/INFO]: Running delayed init tasks
-[01:21:56] [Server thread/INFO]: [Skript] Loading variables...
-[01:21:56] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
-[01:21:56] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[01:21:56] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
-[01:21:56] [Server thread/INFO]: [Skript] Finished loading.
-[01:21:56] [Server thread/INFO]: Done (27.472s)! For help, type "help"
-[01:22:08] [User Authenticator #0/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
-[01:22:09] [Server thread/INFO]: kebaboba joined the game
-[01:22:09] [Server thread/INFO]: kebaboba[/172.18.0.1:54774] logged in with entity id 127 at ([world]-188.53024557807373, 66.0, -25.32729770565335)
-[01:22:17] [User Authenticator #0/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
-[01:22:17] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9747b42c-034b-4a06-849b-086fef48616a, mapped to Bat['Bat'/269, uuid='9747b42c-034b-4a06-849b-086fef48616a', l='ServerLevel[world]', x=-155.75, y=-9.05, z=144.00, cpos=[-10, 8], tl=0, v=true], can't add Bat['Bat'/357, uuid='9747b42c-034b-4a06-849b-086fef48616a', l='ServerLevel[world]', x=-155.75, y=-8.93, z=144.43, cpos=[-10, 9], tl=0, v=false]
-[01:22:17] [Server thread/INFO]: RRhypz joined the game
-[01:22:17] [Server thread/INFO]: RRhypz[/172.18.0.1:54794] logged in with entity id 351 at ([world]-102.34718814861841, 68.0, 179.11952030565323)
-[01:22:18] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5686453e-e38a-4a64-a34e-7117e65fd26f, mapped to Bat['Bat'/453, uuid='5686453e-e38a-4a64-a34e-7117e65fd26f', l='ServerLevel[world]', x=-38.89, y=11.76, z=178.48, cpos=[-3, 11], tl=0, v=true], can't add Bat['Bat'/462, uuid='5686453e-e38a-4a64-a34e-7117e65fd26f', l='ServerLevel[world]', x=-38.62, y=15.12, z=174.69, cpos=[-3, 10], tl=0, v=false]
-[01:23:26] [User Authenticator #1/INFO]: UUID of player ZyreIsReal is 217ac197-072e-3952-bbfa-aa5cb33e59b9
-[01:23:27] [Server thread/INFO]: ZyreIsReal joined the game
-[01:23:27] [Server thread/INFO]: ZyreIsReal[/172.18.0.1:33120] logged in with entity id 916 at ([world]-317.30000001192093, -35.0, 116.30000001192093)
-[01:23:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a9a3e112-e4ee-49cf-b619-2449be9c57f5, mapped to Salmon['Salmon'/1025, uuid='a9a3e112-e4ee-49cf-b619-2449be9c57f5', l='ServerLevel[world]', x=-359.79, y=58.08, z=-6.46, cpos=[-23, -1], tl=0, v=true], can't add Salmon['Salmon'/1029, uuid='a9a3e112-e4ee-49cf-b619-2449be9c57f5', l='ServerLevel[world]', x=-368.53, y=57.16, z=-6.22, cpos=[-24, -1], tl=0, v=false]
-[01:24:27] [Server thread/INFO]: ZyreIsReal issued server command: /
+[10:38:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+ - Chunky (1.4.40), Clumps (5.0), Geyser-Spigot (2.9.0-SNAPSHOT), Lusk (1.3.10), PriSKm (1.2.0), SkBee (3.13.0), SkinsRestorer (15.8.2), Skript (2.13.0), TAB (5.3.2), ViaBackwards (5.5.1), ViaVersion (5.5.1)
+[10:38:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:38:31] [ServerMain/INFO]: Loaded 1461 recipes
+[10:38:31] [ServerMain/INFO]: Loaded 1574 advancements
+[10:38:31] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[10:38:31] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 376.1ms
+[10:38:31] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[10:38:31] [Server thread/INFO]: Loading properties
+[10:38:31] [Server thread/INFO]: This server is running Paper version 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[10:38:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:38:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:38:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:38:31] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[10:38:32] [Server thread/INFO]: Default game type: SURVIVAL
+[10:38:32] [Server thread/INFO]: Generating keypair
+[10:38:32] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:14564
+[10:38:32] [Server thread/INFO]: Using epoll channel type
+[10:38:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:38:32] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[10:38:32] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.1
+[10:38:32] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1 is now loaded. Registering protocol transformers and injecting...
+[10:38:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:38:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[10:38:33] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[10:38:33] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[10:38:34] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.13.0
+[10:38:34] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.5.1
+[10:38:34] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v3.13.0
+[10:38:34] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
+[10:38:34] [Server thread/INFO]: [PriSKm] Loading server plugin PriSKm v1.2.0
+[10:38:34] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[10:38:34] [Server thread/INFO]: [Lusk] Loading server plugin Lusk v1.3.10
+[10:38:34] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v5.0
+[10:38:34] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.3.2
+[10:38:34] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.2
+[10:38:34] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.0-SNAPSHOT
+[10:38:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:38:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:38:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:38:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
+[10:38:36] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.10.
+[10:38:36] [Server thread/WARN]: [SkinsRestorer] "SkinsRestorer v15.8.2" has registered a listener for org.spigotmc.event.player.PlayerSpawnLocationEvent on method "void net.skinsrestorer.shadow.cloud.bukkit.CloudBukkitListener.onPlayerLogin(org.spigotmc.event.player.PlayerSpawnLocationEvent)", but the event is Deprecated. "Listening to this event causes the player to be created early. Using the player from this event will result in undefined behavior. Prefer AsyncPlayerSpawnLocationEvent."; please notify the authors [knat, AlexProgrammerDE, Th3Tr0LLeR, McLive, DoNotSpamPls].
+[10:38:36] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[10:38:36] [Server thread/INFO]: [Clumps] Enabling Clumps v5.0
+[10:38:36] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.2
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[10:38:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[10:38:37] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[10:38:37] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[10:38:37] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[10:38:37] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[10:38:37] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
+[10:38:37] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[10:38:37] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
+[10:38:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:38:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:38:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:38:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:38:37] [Server thread/INFO]: Preparing level "world"
+[10:38:37] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[10:38:37] [Server thread/INFO]: Prepared spawn area in 1 ms
+[10:38:37] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[10:38:37] [Server thread/INFO]: Prepared spawn area in 0 ms
+[10:38:37] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[10:38:37] [Server thread/INFO]: Prepared spawn area in 0 ms
+[10:38:37] [Server thread/INFO]: Done preparing level "world" (0.511s)
+[10:38:37] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1
+[10:38:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.9-1.21.10 (773)
+[10:38:37] [Server thread/INFO]: [Skript] Enabling Skript v2.13.0
+[10:38:38] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[10:38:39] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[10:38:39] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.5.1
+[10:38:39] [Server thread/INFO]: [SkBee] Enabling SkBee v3.13.0
+[10:38:39] [Server thread/INFO]: [SkBee] Registry Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Loading NBTApi...
+[10:38:40] [Server thread/INFO]: [SkBee] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[10:38:40] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[10:38:40] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
+[10:38:40] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Damage Source Elements disabled (now in Skript)
+[10:38:40] [Server thread/INFO]: [SkBee] Display Entity Elements disabled via config
+[10:38:40] [Server thread/INFO]: [SkBee] Fastboard[Adventure] Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Fishing Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Item Component Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Property Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] RayTrace Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] SwitchCase Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Tick Manager Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
+[10:38:40] [Server thread/INFO]: [SkBee] World Border Elements disabled (now in Skript)
+[10:38:40] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Chunk Generator Elements successfully loaded
+[10:38:40] [Server thread/INFO]: [SkBee] Loaded (427) elements:
+[10:38:40] [Server thread/INFO]: [SkBee]  - 57 events
+[10:38:40] [Server thread/INFO]: [SkBee]  - 70 effects
+[10:38:40] [Server thread/INFO]: [SkBee]  - 243 expressions
+[10:38:40] [Server thread/INFO]: [SkBee]  - 25 conditions
+[10:38:40] [Server thread/INFO]: [SkBee]  - 32 sections
+[10:38:40] [Server thread/INFO]: [SkBee]  - 11 properties
+[10:38:40] [Server thread/INFO]: [SkBee] Checking for update...
+[10:38:40] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5650 aliases in 992ms
+[10:38:40] [Server thread/INFO]: [SkBee] Plugin is not up to date!
+[10:38:40] [Server thread/INFO]: [SkBee]  - Current version: v3.13.0
+[10:38:40] [Server thread/INFO]: [SkBee]  - Available update: v3.13.1
+[10:38:40] [Server thread/INFO]: [SkBee]  - Download at: https://modrinth.com/plugin/skbee/version/3.13.1
+[10:38:40] [Server thread/INFO]: [SkBee] Successfully enabled v3.13.0 in 0.97 seconds
+[10:38:40] [Server thread/INFO]: [PriSKm] Enabling PriSKm v1.2.0
+[10:38:40] [Server thread/WARN]: [PriSKm] Could not find VivecraftSpigot as an addon, cannot register syntaxes relating to VR support.
+[10:38:40] [Server thread/INFO]: [PriSKm] Successfully loaded PriSKm 1.2.0
+[10:38:40] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[10:38:40] [Server thread/INFO]: [Lusk] Enabling Lusk v1.3.10
+[10:38:41] [Server thread/INFO]: [Lusk] Loaded 363 elements:
+[10:38:41] [Server thread/INFO]: [Lusk]  - 61 events
+[10:38:41] [Server thread/INFO]: [Lusk]  - 30 effects
+[10:38:41] [Server thread/INFO]: [Lusk]  - 173 expressions
+[10:38:41] [Server thread/INFO]: [Lusk]  - 90 conditions
+[10:38:41] [Server thread/INFO]: [Lusk]  - 9 sections
+[10:38:41] [Server thread/INFO]: [Lusk] Checking for update...
+[10:38:41] [Server thread/INFO]: [Lusk] Lusk is not up to date!
+[10:38:41] [Server thread/INFO]: [Lusk] Youre running Minecraft {0} which is not supported by Lusk {1}, please update.
+[10:38:41] [Server thread/INFO]: [Lusk] Update Available:
+[10:38:41] [Server thread/INFO]: [Lusk]  »   1.3.10 → 1.3.11
+[10:38:41] [Server thread/INFO]: [Lusk]  » Download at: https://github.com/JakeGBLP/Lusk/releases
+[10:38:41] [Server thread/INFO]: [Lusk] Lusk 1.3.10 has been enabled! [0.48 seconds]
+[10:38:41] [Server thread/INFO]: [TAB] Enabling TAB v5.3.2
+[10:38:41] [Server thread/INFO]: [TAB] Enabled in 220ms
+[10:38:41] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.0-SNAPSHOT
+[10:38:42] [Server thread/INFO]: [spark] Starting background profiler...
+[10:38:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:38:43] [Server thread/INFO]: [Geyser-Spigot] 
+[10:38:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.0-b953 (git-master-e9f2a5c)
+[10:38:43] [Server thread/INFO]: [Geyser-Spigot] 
+[10:38:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:38:45] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[10:38:45] [Server thread/INFO]: [Geyser-Spigot] Done (2.872s)! Run /geyser help for help!
+[10:38:46] [Server thread/INFO]: Running delayed init tasks
+[10:38:46] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[10:38:46] [Server thread/INFO]: [Skript] Loading variables...
+[10:38:46] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[10:38:46] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[10:38:46] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
+[10:38:46] [Server thread/INFO]: [Skript] Finished loading.
+[10:38:46] [Server thread/INFO]: Done (24.096s)! For help, type "help"
+[10:38:47] [User Authenticator #0/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[10:38:49] [Server thread/INFO]: RRhypz joined the game
+[10:38:49] [Server thread/INFO]: RRhypz[/172.18.0.1:54540] logged in with entity id 1 at ([world]-110.52809421872125, 68.0, 164.20503008783507)
+[10:38:50] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7ffb519b-da58-4125-9b19-b4be86be26a2, mapped to Zombie['Zombie'/134, uuid='7ffb519b-da58-4125-9b19-b4be86be26a2', l='ServerLevel[world]', x=-58.51, y=-18.00, z=239.81, cpos=[-4, 14], tl=0, v=true], can't add Zombie['Zombie'/140, uuid='7ffb519b-da58-4125-9b19-b4be86be26a2', l='ServerLevel[world]', x=-58.50, y=-18.00, z=241.90, cpos=[-4, 15], tl=0, v=false]
+[10:38:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f54e469a-2305-4760-8951-492892044e49, mapped to Bat['Bat'/191, uuid='f54e469a-2305-4760-8951-492892044e49', l='ServerLevel[world]', x=-53.01, y=49.99, z=301.75, cpos=[-4, 18], tl=0, v=true], can't add Bat['Bat'/207, uuid='f54e469a-2305-4760-8951-492892044e49', l='ServerLevel[world]', x=-57.57, y=51.56, z=305.33, cpos=[-4, 19], tl=0, v=false]
+[10:41:15] [User Authenticator #1/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[10:41:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d9432065-c999-440f-8759-87a3588b11c3, mapped to EnderMan['Enderman'/597, uuid='d9432065-c999-440f-8759-87a3588b11c3', l='ServerLevel[world]', x=-162.48, y=67.00, z=-55.50, cpos=[-11, -4], tl=0, v=true], can't add EnderMan['Enderman'/605, uuid='d9432065-c999-440f-8759-87a3588b11c3', l='ServerLevel[world]', x=-158.53, y=68.00, z=-55.50, cpos=[-10, -4], tl=0, v=false]
+[10:41:15] [Server thread/INFO]: kebaboba joined the game
+[10:41:15] [Server thread/INFO]: kebaboba[/172.18.0.1:49046] logged in with entity id 553 at ([world]-172.2951814880195, 82.0, -30.858753035615443)
+[10:43:32] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 45f43ea9-8160-480e-964d-9dae92179b2a, mapped to Bat['Bat'/1265, uuid='45f43ea9-8160-480e-964d-9dae92179b2a', l='ServerLevel[world]', x=-356.25, y=-33.19, z=-31.75, cpos=[-23, -2], tl=0, v=true], can't add Bat['Bat'/1270, uuid='45f43ea9-8160-480e-964d-9dae92179b2a', l='ServerLevel[world]', x=-354.57, y=-32.42, z=-32.60, cpos=[-23, -3], tl=0, v=false]
+[10:43:47] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 89145d08-eca9-47a0-803e-a43870720387, mapped to Bat['Bat'/1364, uuid='89145d08-eca9-47a0-803e-a43870720387', l='ServerLevel[world]', x=-319.84, y=-20.04, z=185.44, cpos=[-20, 11], tl=0, v=true], can't add Bat['Bat'/1366, uuid='89145d08-eca9-47a0-803e-a43870720387', l='ServerLevel[world]', x=-321.31, y=-20.09, z=186.25, cpos=[-21, 11], tl=0, v=false]
+[10:46:44] [Async Chat Thread - #1/INFO]: [Not Secure] <RRhypz> fuckin niggers
