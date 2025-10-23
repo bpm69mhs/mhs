@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1761222587202
-  login: 1761222387347
+  logout: 1761225981879
+  login: 1761223632625
 money: '0'
 last-account-name: RRhypz
 logoutlocation:
   world: a6ffe8df-8bcf-4553-a9a7-6844d52b4a98
   world-name: world
-  x: -105.70825237290478
-  y: 69.875
-  z: 179.336158944076
-  yaw: 96.53375244140625
-  pitch: 29.58381462097168
+  x: -122.85785807262214
+  y: 63.0
+  z: 106.03812572819417
+  yaw: -87.6851806640625
+  pitch: 14.832329750061035

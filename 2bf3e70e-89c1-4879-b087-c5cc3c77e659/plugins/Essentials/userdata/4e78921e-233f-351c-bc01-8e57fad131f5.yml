@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.56.43.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761226922625
+  login: 1761225151051
+money: '0'
+last-account-name: _Kape
+logoutlocation:
+  world: a6ffe8df-8bcf-4553-a9a7-6844d52b4a98
+  world-name: world
+  x: -320.3363839540999
+  y: 64.0
+  z: 36.0980970636676
+  yaw: -1.070831298828125
+  pitch: 7.2120208740234375

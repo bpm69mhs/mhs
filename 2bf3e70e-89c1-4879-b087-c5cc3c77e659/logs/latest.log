@@ -1,292 +1,372 @@
-[14:11:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.5+9-LTS-239; Oracle Corporation null) on Windows 11 10.0 (amd64)
-[14:11:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) for Minecraft 1.21.10
-[14:11:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:11:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 16 plugins
-[14:11:46] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[14:42:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.5+9-LTS-239; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[14:42:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) for Minecraft 1.21.10
+[14:42:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:42:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 16 plugins
+[14:42:37] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - PlugManX (3.0.2)
-[14:11:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (15):
+[14:42:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (15):
  - Chunky (1.4.40), Clumps (5.0), DeepGuard-Xray (1.7.10), Essentials (2.22.0-dev+40-150dabb), EssentialsChat (2.22.0-dev+40-150dabb), Geyser-Spigot (2.9.0-SNAPSHOT), Lusk (1.3.10), PriSKm (1.2.0), ProtocolLib (5.4.0), SkBee (3.13.0), SkinsRestorer (15.8.2), Skript (2.13.0), TAB (5.3.2), ViaBackwards (5.5.1), ViaVersion (5.5.1)
-[14:11:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[14:11:52] [ServerMain/INFO]: Loaded 1461 recipes
-[14:11:52] [ServerMain/INFO]: Loaded 1574 advancements
-[14:11:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[14:11:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 372.2ms
-[14:11:53] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[14:11:53] [Server thread/INFO]: Loading properties
-[14:11:53] [Server thread/INFO]: This server is running Paper version 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
-[14:11:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:11:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:11:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:11:53] [Server thread/INFO]: [MoonriseCommon] Paper is using 6 worker threads, 1 I/O threads
-[14:11:53] [Server thread/INFO]: Default game type: SURVIVAL
-[14:11:53] [Server thread/INFO]: Generating keypair
-[14:11:53] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
-[14:11:53] [Server thread/INFO]: Using default channel type
-[14:11:53] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[14:11:53] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[14:11:54] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.1
-[14:11:54] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1 is now loaded. Registering protocol transformers and injecting...
-[14:11:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[14:11:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[14:11:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[14:11:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[14:11:55] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.13.0
-[14:11:55] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
-[14:11:55] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.10) has not yet been tested! Proceed with caution.
-[14:11:55] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.5.1
-[14:11:55] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v3.13.0
-[14:11:55] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+40-150dabb
-[14:11:55] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.3.2
-[14:11:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
-[14:11:55] [Server thread/INFO]: [PriSKm] Loading server plugin PriSKm v1.2.0
-[14:11:55] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.2
-[14:11:55] [Server thread/INFO]: [Lusk] Loading server plugin Lusk v1.3.10
-[14:11:55] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.0-SNAPSHOT
-[14:11:56] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[14:11:56] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[14:11:56] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.22.0-dev+40-150dabb
-[14:11:56] [Server thread/INFO]: [DeepGuard-Xray] Loading server plugin DeepGuard-Xray v1.7.10
-[14:11:56] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v5.0
-[14:11:56] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[14:11:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:11:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
-[14:11:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
-[14:11:56] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.10.
-[14:11:56] [Server thread/WARN]: [SkinsRestorer] "SkinsRestorer v15.8.2" has registered a listener for org.spigotmc.event.player.PlayerSpawnLocationEvent on method "void net.skinsrestorer.shadow.cloud.bukkit.CloudBukkitListener.onPlayerLogin(org.spigotmc.event.player.PlayerSpawnLocationEvent)", but the event is Deprecated. "Listening to this event causes the player to be created early. Using the player from this event will result in undefined behavior. Prefer AsyncPlayerSpawnLocationEvent."; please notify the authors [knat, AlexProgrammerDE, Th3Tr0LLeR, McLive, DoNotSpamPls].
-[14:11:57] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[14:11:57] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.2
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[14:11:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[14:11:57] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[14:11:57] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
-[14:11:57] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
-[14:11:57] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
-[14:11:57] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
-[14:11:57] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[14:11:57] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
-[14:11:57] [Server thread/INFO]: [Clumps] Enabling Clumps v5.0
-[14:11:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:11:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:11:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:11:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:11:57] [Server thread/INFO]: Preparing level "world"
-[14:11:57] [Server thread/INFO]: Loading 49 persistent chunks for world 'minecraft:overworld'...
-[14:11:57] [Server thread/INFO]: Preparing spawn area: 16%
-[14:11:58] [Server thread/INFO]: Prepared spawn area in 744 ms
-[14:11:58] [Server thread/INFO]: Loading 49 persistent chunks for world 'minecraft:the_nether'...
-[14:11:58] [Server thread/INFO]: Preparing spawn area: 16%
-[14:11:58] [Server thread/INFO]: Prepared spawn area in 93 ms
-[14:11:58] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
-[14:11:58] [Server thread/INFO]: Prepared spawn area in 1 ms
-[14:11:58] [Server thread/INFO]: Done preparing level "world" (1.322s)
-[14:11:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1
-[14:11:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.9-1.21.10 (773)
-[14:11:58] [Server thread/INFO]: [Skript] Enabling Skript v2.13.0
-[14:11:59] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
-[14:11:59] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[14:11:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.5.1
-[14:11:59] [Server thread/INFO]: [SkBee] Enabling SkBee v3.13.0
-[14:11:59] [Server thread/INFO]: [SkBee] Registry Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Loading NBTApi...
-[14:12:00] [Server thread/INFO]: [SkBee] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
-[14:12:00] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_21_R6' loaded!
-[14:12:00] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
-[14:12:00] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Damage Source Elements disabled (now in Skript)
-[14:12:00] [Server thread/INFO]: [SkBee] Display Entity Elements disabled via config
-[14:12:00] [Server thread/INFO]: [SkBee] Fastboard[Adventure] Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Fishing Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Item Component Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Property Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] RayTrace Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] SwitchCase Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Tick Manager Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
-[14:12:00] [Server thread/INFO]: [SkBee] World Border Elements disabled (now in Skript)
-[14:12:00] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Chunk Generator Elements successfully loaded
-[14:12:00] [Server thread/INFO]: [SkBee] Loaded (427) elements:
-[14:12:00] [Server thread/INFO]: [SkBee]  - 57 events
-[14:12:00] [Server thread/INFO]: [SkBee]  - 70 effects
-[14:12:00] [Server thread/INFO]: [SkBee]  - 243 expressions
-[14:12:00] [Server thread/INFO]: [SkBee]  - 25 conditions
-[14:12:00] [Server thread/INFO]: [SkBee]  - 32 sections
-[14:12:00] [Server thread/INFO]: [SkBee]  - 11 properties
-[14:12:00] [Server thread/INFO]: [SkBee] Checking for update...
-[14:12:00] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5650 aliases in 835ms
-[14:12:00] [Server thread/INFO]: [SkBee] Plugin is not up to date!
-[14:12:00] [Server thread/INFO]: [SkBee]  - Current version: v3.13.0
-[14:12:00] [Server thread/INFO]: [SkBee]  - Available update: v3.13.1
-[14:12:00] [Server thread/INFO]: [SkBee]  - Download at: https://modrinth.com/plugin/skbee/version/3.13.1
-[14:12:00] [Server thread/INFO]: [SkBee] Successfully enabled v3.13.0 in 1.00 seconds
-[14:12:00] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+40-150dabb
-[14:12:01] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[14:12:01] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[14:12:01] [Server thread/INFO]: [Essentials] Loaded 45989 items from items.json.
-[14:12:01] [Server thread/INFO]: [Essentials] Using locale en_US
-[14:12:01] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[14:12:01] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[14:12:01] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[14:12:01] [Server thread/INFO]: [TAB] Enabling TAB v5.3.2
-[14:12:01] [Server thread/INFO]: [TAB] Enabled in 222ms
-[14:12:01] [Server thread/INFO]: [PriSKm] Enabling PriSKm v1.2.0
-[14:12:01] [Server thread/WARN]: [PriSKm] Could not find VivecraftSpigot as an addon, cannot register syntaxes relating to VR support.
-[14:12:01] [Server thread/INFO]: [PriSKm] Successfully loaded PriSKm 1.2.0
-[14:12:01] [Server thread/INFO]: [Lusk] Enabling Lusk v1.3.10
-[14:12:02] [Server thread/INFO]: [Lusk] Loaded 363 elements:
-[14:12:02] [Server thread/INFO]: [Lusk]  - 61 events
-[14:12:02] [Server thread/INFO]: [Lusk]  - 30 effects
-[14:12:02] [Server thread/INFO]: [Lusk]  - 173 expressions
-[14:12:02] [Server thread/INFO]: [Lusk]  - 90 conditions
-[14:12:02] [Server thread/INFO]: [Lusk]  - 9 sections
-[14:12:02] [Server thread/INFO]: [Lusk] Checking for update...
-[14:12:02] [Server thread/INFO]: [Lusk] Lusk is not up to date!
-[14:12:02] [Server thread/INFO]: [Lusk] Youre running Minecraft {0} which is not supported by Lusk {1}, please update.
-[14:12:02] [Server thread/INFO]: [Lusk] Update Available:
-[14:12:02] [Server thread/INFO]: [Lusk]  »   1.3.10 → 1.3.11
-[14:12:02] [Server thread/INFO]: [Lusk]  » Download at: https://github.com/JakeGBLP/Lusk/releases
-[14:12:02] [Server thread/INFO]: [Lusk] Lusk 1.3.10 has been enabled! [0.54 seconds]
-[14:12:02] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.0-SNAPSHOT
-[14:12:03] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.22.0-dev+40-150dabb
-[14:12:03] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Enabling DeepGuard-Xray v1.7.10
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Server plugins directory: C:\Users\gianl\Desktop\mhs\2bf3e70e-89c1-4879-b087-c5cc3c77e659\plugins
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Scheduled automatic update checks every 24 hours
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] bStats metrics enabled!
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Loaded suspicious counts for 0 players
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Loaded punishment data successfully
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Cleaned up expired punishments
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Started auto-save task for punishment data (every 10 minutes)
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Training data already exists, skipping extraction
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Training data already exists, skipping extraction
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Loaded 6 normal player records and 6 cheater records for training
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Trained reference statistics for 51 features
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] ML model trained successfully!
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] ML detection system enabled!
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] ML model successfully loaded with pre-trained data!
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Advanced packet-based detection enabled with ProtocolLib.
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] ProtocolLib detected, advanced detection features enabled!
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Started auto-save task for suspicious player data (every 10 minutes)
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] Started auto-save task for punishment data (every 10 minutes)
-[14:12:03] [Server thread/INFO]: [DeepGuard-Xray] DeepGuard-XRay Plugin enabled with config settings!
-[14:12:03] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[14:12:03] [Server thread/INFO]: [spark] Starting background profiler...
-[14:12:03] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[14:12:04] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:12:04] [Server thread/INFO]: [Geyser-Spigot] 
-[14:12:04] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.0-b953 (git-master-e9f2a5c)
-[14:12:04] [Server thread/INFO]: [Geyser-Spigot] 
-[14:12:04] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:12:06] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[14:12:06] [Server thread/INFO]: [Geyser-Spigot] Done (2.098s)! Run /geyser help for help!
-[14:12:06] [Server thread/INFO]: Running delayed init tasks
-[14:12:06] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[14:12:06] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[14:12:06] [Server thread/INFO]: [Skript] Loading variables...
-[14:12:06] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
-[14:12:06] [Craft Scheduler Thread - 0 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] Checking version: Current=1.7.10, Latest=1.7.10
-[14:12:06] [Craft Scheduler Thread - 0 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] DeepGuard-XRay is up to date!
-[14:12:06] [Craft Scheduler Thread - 4 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] Checking version: Current=1.7.10, Latest=1.7.10
-[14:12:06] [Craft Scheduler Thread - 4 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] DeepGuard-XRay is up to date!
-[14:12:07] [Server thread/INFO]: [Skript] Line 101: (DeathM.sk)
-[14:12:07] [Server thread/INFO]:     "https://pastebin.com/raw/AG4iNAn7" is not a date
-[14:12:07] [Server thread/INFO]:     Line: if text from "https://pastebin.com/raw/AG4iNAn7" is not "{@Version}":
-[14:12:07] [Server thread/INFO]:  
-[14:12:07] [Server thread/INFO]: [Skript] Loaded 2 scripts with a total of 7 structures in 0.67 seconds
-[14:12:07] [Server thread/INFO]: [Skript] Finished loading.
-[14:12:07] [Server thread/INFO]: Done (23.712s)! For help, type "help"
-[14:12:07] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
-[14:12:07] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[14:12:17] [User Authenticator #0/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
-[14:12:17] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [ProtocolLib]
-[14:12:17] [Server thread/INFO]: [+]Janraion
-[14:12:17] [Server thread/INFO]: Janraion[/127.0.0.1:57550] logged in with entity id 232 at ([world]-1037.3948711679507, -10.0, -777.3000000119209)
-[14:12:18] [User Authenticator #0/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
-[14:12:19] [Server thread/INFO]: [+]kebaboba
-[14:12:19] [Server thread/INFO]: kebaboba[/81.56.210.232:29886] logged in with entity id 343 at ([world]-216.38001622488972, 71.0, -27.708536433327346)
-[14:12:22] [Async Chat Thread - #0/INFO]: [Not Secure]  77MHS77 | Janraion > aa
-[14:17:59] [Server thread/INFO]: Janraion lost connection: Disconnected
-[14:17:59] [Server thread/INFO]: [-]Janraion
-[14:18:59] [User Authenticator #1/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
-[14:18:59] [Server thread/INFO]: [+]Janraion
-[14:18:59] [Server thread/INFO]: Janraion[/127.0.0.1:52524] logged in with entity id 2465 at ([world]-187.61673154147616, 69.0, 43.257763185466324)
-[14:22:07] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving suspicious player data...
-[14:22:07] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for 0 players
-[14:22:07] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving punishment data...
-[14:22:07] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for punishment data
-[14:24:10] [Server thread/WARN]: Illegal Entity Teleport ZombifiedPiglin['Zombified Piglin'/4341, uuid='c669685a-70f9-407e-a830-d0230087d5ae', l='ServerLevel[world]', x=-177.50, y=65.00, z=13.50, cpos=[-12, 0], tl=19, v=true] to ServerLevel[world_nether]:(-14.5, 40.0, 1.7275174212921875)
-java.lang.Throwable: null
-	at net.minecraft.world.entity.Entity.teleport(Entity.java:3984) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.world.entity.Entity.teleportCrossDimension(Entity.java:4077) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.world.entity.Entity.teleport(Entity.java:4047) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.world.entity.Entity.handlePortal(Entity.java:3487) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.world.entity.Entity.postTick(Entity.java:844) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1317) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1433) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:839) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:821) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1812) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1623) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:430) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1343) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:383) ~[paper-1.21.10.jar:1.21.10-81-7845cba]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[14:26:27] [User Authenticator #2/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
-[14:26:27] [Server thread/INFO]: [+]RRhypz
-[14:26:27] [Server thread/INFO]: RRhypz[/151.15.214.154:55290] logged in with entity id 5228 at ([world]-113.63579770490139, 66.0, 182.17966109985574)
-[14:29:47] [Server thread/INFO]: RRhypz lost connection: Disconnected
-[14:29:47] [Server thread/INFO]: [-]RRhypz
-[14:29:49] [Server thread/INFO]: Stopping server
-[14:29:49] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
-[14:29:49] [Server thread/INFO]: [Clumps] Disabling Clumps v5.0
-[14:29:49] [Server thread/INFO]: [DeepGuard-Xray] Disabling DeepGuard-Xray v1.7.10
-[14:29:49] [Server thread/INFO]: [DeepGuard-Xray] Saved suspicious counts for 0 players
-[14:29:49] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.22.0-dev+40-150dabb
-[14:29:49] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.0-SNAPSHOT
-[14:29:49] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[14:42:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:42:44] [ServerMain/INFO]: Loaded 1461 recipes
+[14:42:44] [ServerMain/INFO]: Loaded 1574 advancements
+[14:42:44] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:42:44] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 389.7ms
+[14:42:44] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[14:42:44] [Server thread/INFO]: Loading properties
+[14:42:44] [Server thread/INFO]: This server is running Paper version 1.21.10-81-main@7845cba (2025-10-18T00:13:01Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[14:42:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:42:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:42:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:42:45] [Server thread/INFO]: [MoonriseCommon] Paper is using 6 worker threads, 1 I/O threads
+[14:42:45] [Server thread/INFO]: Default game type: SURVIVAL
+[14:42:45] [Server thread/INFO]: Generating keypair
+[14:42:45] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[14:42:45] [Server thread/INFO]: Using default channel type
+[14:42:45] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:42:45] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:42:45] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.1
+[14:42:45] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.1 is now loaded. Registering protocol transformers and injecting...
+[14:42:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:42:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:42:46] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:42:46] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[14:42:47] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.13.0
+[14:42:47] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[14:42:47] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.10) has not yet been tested! Proceed with caution.
+[14:42:47] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.5.1
+[14:42:47] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v3.13.0
+[14:42:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+40-150dabb
+[14:42:47] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.3.2
+[14:42:47] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
+[14:42:47] [Server thread/INFO]: [PriSKm] Loading server plugin PriSKm v1.2.0
+[14:42:47] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.2
+[14:42:47] [Server thread/INFO]: [Lusk] Loading server plugin Lusk v1.3.10
+[14:42:47] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.0-SNAPSHOT
+[14:42:47] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[14:42:47] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[14:42:47] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.22.0-dev+40-150dabb
+[14:42:47] [Server thread/INFO]: [DeepGuard-Xray] Loading server plugin DeepGuard-Xray v1.7.10
+[14:42:47] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v5.0
+[14:42:47] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[14:42:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:42:47] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[14:42:47] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
+[14:42:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.10.
+[14:42:48] [Server thread/WARN]: [SkinsRestorer] "SkinsRestorer v15.8.2" has registered a listener for org.spigotmc.event.player.PlayerSpawnLocationEvent on method "void net.skinsrestorer.shadow.cloud.bukkit.CloudBukkitListener.onPlayerLogin(org.spigotmc.event.player.PlayerSpawnLocationEvent)", but the event is Deprecated. "Listening to this event causes the player to be created early. Using the player from this event will result in undefined behavior. Prefer AsyncPlayerSpawnLocationEvent."; please notify the authors [knat, AlexProgrammerDE, Th3Tr0LLeR, McLive, DoNotSpamPls].
+[14:42:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[14:42:48] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.2
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[14:42:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[14:42:49] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:42:49] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[14:42:49] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[14:42:49] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[14:42:49] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
+[14:42:49] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:42:49] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
+[14:42:49] [Server thread/INFO]: [Clumps] Enabling Clumps v5.0
+[14:42:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:42:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:42:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:42:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:42:49] [Server thread/INFO]: Preparing level "world"
+[14:42:49] [Server thread/INFO]: Loading 49 persistent chunks for world 'minecraft:overworld'...
+[14:42:49] [Server thread/INFO]: Preparing spawn area: 16%
+[14:42:50] [Server thread/INFO]: Prepared spawn area in 809 ms
+[14:42:50] [Server thread/INFO]: Loading 49 persistent chunks for world 'minecraft:the_nether'...
+[14:42:50] [Server thread/INFO]: Preparing spawn area: 16%
+[14:42:50] [Server thread/INFO]: Prepared spawn area in 53 ms
+[14:42:50] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[14:42:50] [Server thread/INFO]: Prepared spawn area in 1 ms
+[14:42:50] [Server thread/INFO]: Done preparing level "world" (1.356s)
+[14:42:50] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.1
+[14:42:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.9-1.21.10 (773)
+[14:42:50] [Server thread/INFO]: [Skript] Enabling Skript v2.13.0
+[14:42:51] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[14:42:51] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[14:42:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.5.1
+[14:42:51] [Server thread/INFO]: [SkBee] Enabling SkBee v3.13.0
+[14:42:51] [Server thread/INFO]: [SkBee] Registry Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Loading NBTApi...
+[14:42:52] [Server thread/INFO]: [SkBee] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[14:42:52] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[14:42:52] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
+[14:42:52] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Damage Source Elements disabled (now in Skript)
+[14:42:52] [Server thread/INFO]: [SkBee] Display Entity Elements disabled via config
+[14:42:52] [Server thread/INFO]: [SkBee] Fastboard[Adventure] Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Fishing Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Item Component Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Property Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] RayTrace Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] SwitchCase Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Tick Manager Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
+[14:42:52] [Server thread/INFO]: [SkBee] World Border Elements disabled (now in Skript)
+[14:42:52] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Chunk Generator Elements successfully loaded
+[14:42:52] [Server thread/INFO]: [SkBee] Loaded (427) elements:
+[14:42:52] [Server thread/INFO]: [SkBee]  - 57 events
+[14:42:52] [Server thread/INFO]: [SkBee]  - 70 effects
+[14:42:52] [Server thread/INFO]: [SkBee]  - 243 expressions
+[14:42:52] [Server thread/INFO]: [SkBee]  - 25 conditions
+[14:42:52] [Server thread/INFO]: [SkBee]  - 32 sections
+[14:42:52] [Server thread/INFO]: [SkBee]  - 11 properties
+[14:42:52] [Server thread/INFO]: [SkBee] Checking for update...
+[14:42:52] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5650 aliases in 983ms
+[14:42:52] [Server thread/INFO]: [SkBee] Plugin is not up to date!
+[14:42:52] [Server thread/INFO]: [SkBee]  - Current version: v3.13.0
+[14:42:52] [Server thread/INFO]: [SkBee]  - Available update: v3.13.1
+[14:42:52] [Server thread/INFO]: [SkBee]  - Download at: https://modrinth.com/plugin/skbee/version/3.13.1
+[14:42:52] [Server thread/INFO]: [SkBee] Successfully enabled v3.13.0 in 1.06 seconds
+[14:42:52] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+40-150dabb
+[14:42:53] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:42:53] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[14:42:53] [Server thread/INFO]: [Essentials] Loaded 45989 items from items.json.
+[14:42:53] [Server thread/INFO]: [Essentials] Using locale en_US
+[14:42:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:42:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:42:53] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:42:53] [Server thread/INFO]: [TAB] Enabling TAB v5.3.2
+[14:42:53] [Server thread/INFO]: [TAB] Enabled in 221ms
+[14:42:53] [Server thread/INFO]: [PriSKm] Enabling PriSKm v1.2.0
+[14:42:53] [Server thread/WARN]: [PriSKm] Could not find VivecraftSpigot as an addon, cannot register syntaxes relating to VR support.
+[14:42:53] [Server thread/INFO]: [PriSKm] Successfully loaded PriSKm 1.2.0
+[14:42:53] [Server thread/INFO]: [Lusk] Enabling Lusk v1.3.10
+[14:42:54] [Server thread/INFO]: [Lusk] Loaded 363 elements:
+[14:42:54] [Server thread/INFO]: [Lusk]  - 61 events
+[14:42:54] [Server thread/INFO]: [Lusk]  - 30 effects
+[14:42:54] [Server thread/INFO]: [Lusk]  - 173 expressions
+[14:42:54] [Server thread/INFO]: [Lusk]  - 90 conditions
+[14:42:54] [Server thread/INFO]: [Lusk]  - 9 sections
+[14:42:54] [Server thread/INFO]: [Lusk] Checking for update...
+[14:42:54] [Server thread/INFO]: [Lusk] Lusk is not up to date!
+[14:42:54] [Server thread/INFO]: [Lusk] Youre running Minecraft {0} which is not supported by Lusk {1}, please update.
+[14:42:54] [Server thread/INFO]: [Lusk] Update Available:
+[14:42:54] [Server thread/INFO]: [Lusk]  »   1.3.10 → 1.3.11
+[14:42:54] [Server thread/INFO]: [Lusk]  » Download at: https://github.com/JakeGBLP/Lusk/releases
+[14:42:54] [Server thread/INFO]: [Lusk] Lusk 1.3.10 has been enabled! [0.48 seconds]
+[14:42:54] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.0-SNAPSHOT
+[14:42:55] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.22.0-dev+40-150dabb
+[14:42:55] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Enabling DeepGuard-Xray v1.7.10
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Server plugins directory: C:\Users\gianl\Desktop\mhs\2bf3e70e-89c1-4879-b087-c5cc3c77e659\plugins
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Scheduled automatic update checks every 24 hours
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] bStats metrics enabled!
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Loaded suspicious counts for 0 players
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Loaded punishment data successfully
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Cleaned up expired punishments
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Started auto-save task for punishment data (every 10 minutes)
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Training data already exists, skipping extraction
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Training data already exists, skipping extraction
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Loaded 6 normal player records and 6 cheater records for training
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Trained reference statistics for 51 features
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] ML model trained successfully!
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] ML detection system enabled!
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] ML model successfully loaded with pre-trained data!
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Advanced packet-based detection enabled with ProtocolLib.
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] ProtocolLib detected, advanced detection features enabled!
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Started auto-save task for suspicious player data (every 10 minutes)
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] Started auto-save task for punishment data (every 10 minutes)
+[14:42:55] [Server thread/INFO]: [DeepGuard-Xray] DeepGuard-XRay Plugin enabled with config settings!
+[14:42:55] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[14:42:55] [Server thread/INFO]: [spark] Starting background profiler...
+[14:42:55] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[14:42:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:42:56] [Server thread/INFO]: [Geyser-Spigot] 
+[14:42:56] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.0-b953 (git-master-e9f2a5c)
+[14:42:56] [Server thread/INFO]: [Geyser-Spigot] 
+[14:42:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:42:58] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[14:42:58] [Server thread/INFO]: [Geyser-Spigot] Done (2.626s)! Run /geyser help for help!
+[14:42:58] [Server thread/INFO]: Running delayed init tasks
+[14:42:58] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[14:42:58] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:42:58] [Server thread/INFO]: [Skript] Loading variables...
+[14:42:59] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[14:42:59] [Craft Scheduler Thread - 4 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] Checking version: Current=1.7.10, Latest=1.7.10
+[14:42:59] [Craft Scheduler Thread - 4 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] DeepGuard-XRay is up to date!
+[14:42:59] [Craft Scheduler Thread - 0 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] Checking version: Current=1.7.10, Latest=1.7.10
+[14:42:59] [Craft Scheduler Thread - 0 - DeepGuard-Xray/INFO]: [DeepGuard-Xray] DeepGuard-XRay is up to date!
+[14:42:59] [Server thread/INFO]: [Skript] Line 101: (DeathM.sk)
+[14:42:59] [Server thread/INFO]:     "https://pastebin.com/raw/AG4iNAn7" is not a date
+[14:42:59] [Server thread/INFO]:     Line: if text from "https://pastebin.com/raw/AG4iNAn7" is not "{@Version}":
+[14:42:59] [Server thread/INFO]:  
+[14:42:59] [Server thread/INFO]: [Skript] Loaded 2 scripts with a total of 7 structures in 0.72 seconds
+[14:42:59] [Server thread/INFO]: [Skript] Finished loading.
+[14:42:59] [Server thread/INFO]: Done (25.364s)! For help, type "help"
+[14:43:00] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
+[14:43:00] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[14:43:04] [User Authenticator #0/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[14:43:04] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [ProtocolLib]
+[14:43:05] [Server thread/INFO]: [+]Janraion
+[14:43:05] [Server thread/INFO]: Janraion[/127.0.0.1:51637] logged in with entity id 247 at ([world]-198.1283871346651, 69.0, 82.88780300217007)
+[14:43:06] [User Authenticator #0/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[14:43:07] [Server thread/INFO]: [+]kebaboba
+[14:43:07] [Server thread/INFO]: kebaboba[/81.56.210.232:28347] logged in with entity id 391 at ([world]-234.30000001192093, 67.0, 53.776641590731515)
+[14:43:08] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 3a3435aa-3035-4c3b-ba71-a7263b9b9804, mapped to Bat['Bat'/503, uuid='3a3435aa-3035-4c3b-ba71-a7263b9b9804', l='ServerLevel[world]', x=-75.50, y=-44.00, z=158.25, cpos=[-5, 9], tl=0, v=true], can't add Bat['Bat'/550, uuid='3a3435aa-3035-4c3b-ba71-a7263b9b9804', l='ServerLevel[world]', x=-77.27, y=-42.84, z=162.33, cpos=[-5, 10], tl=0, v=false]
+[14:43:11] [User Authenticator #0/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[14:43:11] [Server thread/INFO]: [+]RRhypz
+[14:43:11] [Server thread/INFO]: RRhypz[/151.15.214.154:56764] logged in with entity id 669 at ([world]-105.70825237290478, 69.875, 179.336158944076)
+[14:45:52] [Async Chat Thread - #1/INFO]: [Not Secure]  77MHS77 | RRhypz > diocane
+[14:45:58] [Server thread/INFO]: Janraion issued server command: /kill @e[type=minecraft:ender_pearl]
+[14:45:58] [Server thread/INFO]: [Essentials] Janraion was denied access to command.
+[14:46:00] [Async Chat Thread - #1/INFO]: [Not Secure]  77MHS77 | Janraion > xd
+[14:46:06] [Server thread/INFO]: Janraion lost connection: Disconnected
+[14:46:06] [Server thread/INFO]: [-]Janraion
+[14:46:24] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[14:46:24] [Server thread/INFO]: [-]RRhypz
+[14:47:12] [User Authenticator #1/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[14:47:12] [Server thread/INFO]: [+]RRhypz
+[14:47:12] [Server thread/INFO]: RRhypz[/151.15.214.154:57120] logged in with entity id 2050 at ([world]-103.68812698804487, 68.0, 176.9100724291678)
+[14:47:56] [User Authenticator #1/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[14:47:56] [Server thread/INFO]: [+]Janraion
+[14:47:56] [Server thread/INFO]: Janraion[/127.0.0.1:52163] logged in with entity id 2353 at ([world]-193.96629319390556, 69.9375, 84.13946594772334)
+[14:52:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving suspicious player data...
+[14:52:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for 0 players
+[14:52:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving punishment data...
+[14:52:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for punishment data
+[14:53:27] [Server thread/INFO]: Janraion lost connection: Disconnected
+[14:53:27] [Server thread/INFO]: [-]Janraion
+[14:54:15] [User Authenticator #2/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[14:54:15] [Server thread/INFO]: [+]Janraion
+[14:54:15] [Server thread/INFO]: Janraion[/127.0.0.1:61550] logged in with entity id 4566 at ([world]-216.0566857211003, 69.5625, 92.65238645044187)
+[14:59:00] [Server thread/INFO]: kebaboba lost connection: Disconnected
+[14:59:00] [Server thread/INFO]: [-]kebaboba
+[15:02:13] [Server thread/INFO]: Villager Villager['Villager'/293, uuid='f021cdd1-60ef-43e3-a285-33e834c4337c', l='ServerLevel[world]', x=-211.70, y=69.00, z=81.25, cpos=[-14, 5], tl=22967, v=true] died, message: 'Villager was slain by Janraion'
+[15:02:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving suspicious player data...
+[15:02:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for 0 players
+[15:02:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving punishment data...
+[15:02:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for punishment data
+[15:04:51] [Server thread/INFO]: Villager Villager['Cleric'/77, uuid='58625829-e95c-44e4-80a3-96d97958dab4', l='ServerLevel[world]', x=-244.49, y=62.00, z=61.30, cpos=[-16, 3], tl=26088, v=true] died, message: 'Cleric was slain by Zombie'
+[15:12:30] [User Authenticator #3/INFO]: UUID of player _Kape is 4e78921e-233f-351c-bc01-8e57fad131f5
+[15:12:31] [Server thread/INFO]: [+]_Kape
+[15:12:31] [Server thread/INFO]: _Kape[/81.56.43.82:1807] logged in with entity id 8956 at ([world]-211.78870343110907, 61.5, -67.35153964719107)
+[15:12:41] [Async Chat Thread - #2/INFO]: [Not Secure]  77MHS77 | _Kape > helo nigas
+[15:12:52] [Async Chat Thread - #2/INFO]: [Not Secure]  77MHS77 | Janraion > hello akbar
+[15:12:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving suspicious player data...
+[15:12:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for 0 players
+[15:12:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving punishment data...
+[15:12:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for punishment data
+[15:13:02] [Async Chat Thread - #2/INFO]: [Not Secure]  77MHS77 | Janraion > per ora sto hostando io, appena angelo risolve torniamo al solito
+[15:18:12] [Async Chat Thread - #5/INFO]: [Not Secure]  77MHS77 | RRhypz > negri
+[15:22:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving suspicious player data...
+[15:22:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for 0 players
+[15:22:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving punishment data...
+[15:22:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for punishment data
+[15:26:21] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[15:26:21] [Server thread/INFO]: [-]RRhypz
+[15:26:59] [Server thread/INFO]: Villager Villager['Librarian'/290, uuid='90b46544-712b-4783-88da-8b731d80ce3a', l='ServerLevel[world]', x=-230.26, y=67.25, z=54.30, cpos=[-15, 3], tl=52695, v=true] died, message: 'Librarian was slain by Zombie'
+[15:29:12] [Server thread/INFO]: Villager Villager['Cleric'/9527, uuid='26064eca-10e2-40af-a7d9-78f024e18018', l='ServerLevel[world]', x=-235.90, y=66.00, z=57.49, cpos=[-15, 3], tl=18836, v=true] died, message: 'Cleric was slain by Zombie'
+[15:32:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving suspicious player data...
+[15:32:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for 0 players
+[15:32:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving punishment data...
+[15:32:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for punishment data
+[15:38:45] [Async Chat Thread - #6/INFO]: [Not Secure]  77MHS77 | Janraion > faccio una pausa
+[15:38:47] [Server thread/INFO]: Janraion lost connection: Disconnected
+[15:38:47] [Server thread/INFO]: [-]Janraion
+[15:42:02] [Server thread/INFO]: Villager Villager['Farmer'/482, uuid='34b27021-a2c1-4563-b35e-5b28c55f9b6e', l='ServerLevel[world]', x=-318.87, y=62.94, z=19.51, cpos=[-20, 1], tl=70656, v=true] died, message: 'Farmer was slain by Drowned'
+[15:42:02] [Server thread/INFO]: _Kape lost connection: Disconnected
+[15:42:02] [Server thread/INFO]: [-]_Kape
+[15:42:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving suspicious player data...
+[15:42:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for 0 players
+[15:42:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-saving punishment data...
+[15:42:59] [Server thread/INFO]: [DeepGuard-Xray] Auto-save complete for punishment data
+[15:47:45] [Server thread/INFO]: Stopping server
+[15:47:45] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[15:47:45] [Server thread/INFO]: [Clumps] Disabling Clumps v5.0
+[15:47:45] [Server thread/INFO]: [DeepGuard-Xray] Disabling DeepGuard-Xray v1.7.10
+[15:47:45] [Server thread/INFO]: [DeepGuard-Xray] Saved suspicious counts for 0 players
+[15:47:45] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.22.0-dev+40-150dabb
+[15:47:45] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.0-SNAPSHOT
+[15:47:45] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[15:47:45] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[15:47:45] [Server thread/INFO]: [Lusk] Disabling Lusk v1.3.10
+[15:47:46] [Server thread/INFO]: [PlugManX] Disabling PlugManX v3.0.2
+[15:47:46] [Server thread/INFO]: [PriSKm] Disabling PriSKm v1.2.0
+[15:47:46] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.2
+[15:47:46] [Server thread/INFO]: [TAB] Disabling TAB v5.3.2
+[15:47:46] [Server thread/INFO]: [TAB] Disabled in 1ms
+[15:47:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+40-150dabb
+[15:47:46] [Server thread/INFO]: [SkBee] Disabling SkBee v3.13.0
+[15:47:46] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.5.1
+[15:47:46] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[15:47:46] [Server thread/INFO]: [Skript] Disabling Skript v2.13.0
+[15:47:46] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.1
+[15:47:46] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[15:47:46] [Server thread/INFO]: Saving players
+[15:47:46] [Server thread/INFO]: Saving worlds
+[15:47:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:47:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:47:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:47:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:47:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:47:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:47:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:47:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:47:46] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:47:46] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[15:47:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:47:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
