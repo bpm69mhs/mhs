@@ -148,20 +148,8 @@ overridden-commands:
 # Disabling commands here will prevent Essentials handling the command, this will not affect command conflicts.
 # You should not have to disable commands used in other plugins, they will automatically get priority.
 # See http://wiki.bukkit.org/Commands.yml#aliases to map commands to other plugins.
-disabled-commands:
-  - ?
-  - bukkit:?
-  - bukkit:pl
-  - bukkit:plugins
-  - bukkit
-  - minecraft
-  - minecraft:?
-  - minecraft:pl
-  - minecraft:plugins
-  - minecraft:help
-  - help
-  - pl
-  - plugins
+
+disabled-commands: "?"
 
 # These commands will be shown to players with socialSpy enabled.
 # You can add commands from other plugins you may want to track or
@@ -704,7 +692,7 @@ chat:
   # For more information of chat formatting, check out the wiki: http://wiki.ess3.net/wiki/Chat_Formatting
   # For EssentialsX changes, take a look at the EssentialsX wiki: https://github.com/EssentialsX/Essentials/wiki
 
-  format: ' &8&l&k77&7&l&n{factions_name}&r&8&l&k77 &8&l| &e{DISPLAYNAME} &8&l> &f&o{MESSAGE}'
+  format: ' &8&l&k77&b&l&nMHS&r&8&l&k77 &8&l| &e{DISPLAYNAME} &8&l> &f&o{MESSAGE}'
   #format: '&7{GROUP}&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
