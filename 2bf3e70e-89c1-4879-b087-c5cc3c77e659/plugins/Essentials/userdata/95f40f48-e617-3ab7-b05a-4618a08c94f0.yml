@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761221879708
+  login: 1761221939854
+money: '0'
+last-account-name: Janraion
+logoutlocation:
+  world: a6ffe8df-8bcf-4553-a9a7-6844d52b4a98
+  world-name: world
+  x: -187.61673154147616
+  y: 69.0
+  z: 43.257763185466324
+  yaw: 8.062522888183594
+  pitch: 6.379329204559326

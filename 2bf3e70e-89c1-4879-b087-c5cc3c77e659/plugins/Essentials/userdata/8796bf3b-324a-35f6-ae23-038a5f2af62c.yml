@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 151.15.214.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761222587202
+  login: 1761222387347
+money: '0'
+last-account-name: RRhypz
+logoutlocation:
+  world: a6ffe8df-8bcf-4553-a9a7-6844d52b4a98
+  world-name: world
+  x: -105.70825237290478
+  y: 69.875
+  z: 179.336158944076
+  yaw: 96.53375244140625
+  pitch: 29.58381462097168
