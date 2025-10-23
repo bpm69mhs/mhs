@@ -1935,3 +1935,134 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [22:19:02] [User Authenticator #34/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
 [22:19:03] [Server thread/INFO]: Janraion joined the game
 [22:19:03] [Server thread/INFO]: Janraion[/172.18.0.1:51300] logged in with entity id 423517 at ([world]-202.45832455324356, 69.12838404954839, 86.44286010290354)
+[22:19:40] [Async Chat Thread - #72/INFO]: [Not Secure] <RRhypz> negri
+[22:19:43] [User Authenticator #34/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[22:19:45] [Server thread/INFO]: kebaboba joined the game
+[22:19:45] [Server thread/INFO]: kebaboba[/172.18.0.1:49386] logged in with entity id 423732 at ([world]-217.59088253617176, 70.0, -28.170018655620783)
+[22:20:44] [Server thread/INFO]: B0B01K4 lost connection: Timed out
+[22:20:44] [Server thread/INFO]: B0B01K4 left the game
+[22:20:44] [Server thread/INFO]: RRhypz lost connection: Timed out
+[22:20:44] [Server thread/INFO]: RRhypz left the game
+[22:20:44] [Server thread/INFO]: Janraion was kicked due to keepalive timeout!
+[22:20:44] [Server thread/INFO]: Janraion lost connection: Timed out
+[22:20:45] [Server thread/INFO]: Janraion left the game
+[22:20:45] [Server thread/INFO]: kebaboba was kicked due to keepalive timeout!
+[22:20:45] [Server thread/INFO]: kebaboba lost connection: Timed out
+[22:20:45] [Server thread/INFO]: kebaboba left the game
+[22:21:24] [User Authenticator #35/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[22:21:24] [Server thread/INFO]: Janraion joined the game
+[22:21:24] [Server thread/INFO]: Janraion[/172.18.0.1:47572] logged in with entity id 424028 at ([world]-194.53016543295726, 71.0, 73.67248712719093)
+[22:21:36] [User Authenticator #35/INFO]: UUID of player B0B01K4 is 97eff7b5-1c0b-3772-89d0-15a77582ded8
+[22:21:36] [Server thread/INFO]: B0B01K4 joined the game
+[22:21:36] [Server thread/INFO]: B0B01K4[/172.18.0.1:58336] logged in with entity id 424385 at ([world]-322.30913452288394, 64.0, 35.04545126559981)
+[22:21:44] [User Authenticator #35/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[22:21:44] [Server thread/INFO]: RRhypz joined the game
+[22:21:44] [Server thread/INFO]: RRhypz[/172.18.0.1:45962] logged in with entity id 424469 at ([world]-274.3067126787866, 68.0, 32.14725623372046)
+[22:22:18] [User Authenticator #35/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[22:22:19] [Server thread/INFO]: kebaboba joined the game
+[22:22:19] [Server thread/INFO]: kebaboba[/172.18.0.1:32860] logged in with entity id 424696 at ([world]-217.23750001192093, 70.0, -29.618939818010322)
+[22:25:39] [Server thread/WARN]: RRhypz moved too quickly! -7.730938222021678,1.0,-6.892985524159485
+[22:25:41] [Server thread/WARN]: kebaboba was kicked for floating too long!
+[22:25:41] [Server thread/INFO]: kebaboba lost connection: Flying is not enabled on this server
+[22:25:41] [Server thread/INFO]: kebaboba left the game
+[22:26:06] [Server thread/INFO]: Janraion was kicked due to keepalive timeout!
+[22:26:06] [Server thread/INFO]: Janraion lost connection: Timed out
+[22:26:06] [Server thread/INFO]: Janraion left the game
+[22:26:06] [Server thread/INFO]: B0B01K4 was kicked due to keepalive timeout!
+[22:26:06] [Server thread/INFO]: B0B01K4 lost connection: Timed out
+[22:26:06] [Server thread/INFO]: B0B01K4 left the game
+[22:26:06] [Server thread/INFO]: RRhypz was kicked due to keepalive timeout!
+[22:26:06] [Server thread/INFO]: RRhypz lost connection: Timed out
+[22:26:06] [Server thread/INFO]: RRhypz left the game
+[22:26:39] [User Authenticator #36/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[22:26:40] [Server thread/INFO]: RRhypz joined the game
+[22:26:40] [Server thread/INFO]: RRhypz[/172.18.0.1:57446] logged in with entity id 426009 at ([world]-198.9514193457672, 68.0, 104.19626446824867)
+[22:26:51] [User Authenticator #36/INFO]: UUID of player B0B01K4 is 97eff7b5-1c0b-3772-89d0-15a77582ded8
+[22:26:51] [Server thread/INFO]: B0B01K4 joined the game
+[22:26:51] [Server thread/INFO]: B0B01K4[/172.18.0.1:35356] logged in with entity id 426452 at ([world]-319.76249998807907, -35.0, 116.69999998807907)
+[22:27:09] [User Authenticator #36/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[22:27:09] [Server thread/INFO]: kebaboba joined the game
+[22:27:09] [Server thread/INFO]: kebaboba[/172.18.0.1:59192] logged in with entity id 426543 at ([world]-280.5541371029891, 68.66417807723593, 36.778511954900296)
+[22:27:22] [User Authenticator #36/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[22:27:22] [Server thread/INFO]: Janraion joined the game
+[22:27:22] [Server thread/INFO]: Janraion[/172.18.0.1:55888] logged in with entity id 426586 at ([world]-213.84544174703828, 69.875, 93.5564304006186)
+[22:29:58] [Async Chat Thread - #74/INFO]: [Not Secure] <RRhypz> Angelo negro
+[22:33:52] [Server thread/INFO]: B0B01K4 issued server command: /trollchat RRhypz mi piace il cazzo duro
+[22:35:37] [Server thread/INFO]: [Skript] Reloading TrollC.sk...
+[22:35:37] [Server thread/INFO]: Line 3: (TrollC.sk)
+[22:35:37] [Server thread/INFO]:     indentation error: expected 14 spaces, but found 11 spaces
+[22:35:37] [Server thread/INFO]:     Line: make arg-1 say arg-2
+[22:35:37] [Server thread/INFO]:  
+[22:35:37] [Server thread/INFO]:     Encountered 1 error while reloading TrollC.sk! (21ms)
+[22:36:07] [Server thread/INFO]: [Skript] Reloading TrollC.sk...
+[22:36:07] [Server thread/INFO]: Successfully reloaded TrollC.sk. (9ms)
+[22:36:11] [Server thread/INFO]: B0B01K4 issued server command: /trollchat RRhypz mi piace il cazzo duro
+[22:36:11] [Server thread/INFO]: [Not Secure] <RRhypz> mi piace il cazzo duro
+[22:36:28] [Server thread/INFO]: B0B01K4 issued server command: /trollchat RRhypz grosso e negro
+[22:36:28] [Server thread/INFO]: [Not Secure] <RRhypz> grosso e negro
+[22:37:21] [Server thread/INFO]: B0B01K4 issued server command: /trollchat kebaboba shaggy
+[22:37:21] [Server thread/INFO]: [Not Secure] <kebaboba> shaggy
+[22:37:34] [Server thread/INFO]: B0B01K4 issued server command: /trollchat kebaboba scoooby
+[22:37:34] [Server thread/INFO]: [Not Secure] <kebaboba> scoooby
+[22:37:55] [Server thread/INFO]: B0B01K4 issued server command: /trollchat Janraion malandi ako
+[22:37:55] [Server thread/INFO]: [Not Secure] <Janraion> malandi ako
+[22:38:21] [Server thread/INFO]: Janraion has completed the challenge [Serious Dedication]
+[22:38:22] [Async Chat Thread - #76/INFO]: [Not Secure] <B0B01K4> ./trollchat player msg
+[22:38:54] [Server thread/INFO]: B0B01K4 issued server command: /trollchat Janraion i got some hoes u know
+[22:38:54] [Server thread/INFO]: [Not Secure] <Janraion> i got some hoes u know
+[22:41:20] [Async Chat Thread - #78/INFO]: [Not Secure] <RRhypz> niggerz
+[22:41:38] [Server thread/INFO]: B0B01K4 issued server command: /trollchat RRhypz bading ako
+[22:41:38] [Server thread/INFO]: [Not Secure] <RRhypz> bading ako
+[23:04:02] [Async Chat Thread - #80/INFO]: [Not Secure] <RRhypz> jeremy negro
+[23:04:53] [Async Chat Thread - #80/INFO]: [Not Secure] <RRhypz> niggerz
+[23:11:42] [Server thread/WARN]: Dark Oak Boat (vehicle of RRhypz) moved wrongly! 0.6157633520069794
+[23:16:34] [Server thread/INFO]: Janraion has made the advancement [Minecraft: Trial(s) Edition]
+[23:17:39] [Server thread/INFO]: RRhypz has made the advancement [Minecraft: Trial(s) Edition]
+[23:17:54] [Server thread/INFO]: B0B01K4 has made the advancement [Minecraft: Trial(s) Edition]
+[23:22:51] [Server thread/INFO]: kebaboba has made the advancement [Getting an Upgrade]
+[23:23:40] [Server thread/INFO]: kebaboba has made the advancement [Under Lock and Key]
+[23:25:11] [Server thread/INFO]: B0B01K4 has made the advancement [Under Lock and Key]
+[23:25:33] [Server thread/INFO]: RRhypz has made the advancement [Under Lock and Key]
+[23:28:57] [Server thread/INFO]: kebaboba lost connection: Disconnected
+[23:28:57] [Server thread/INFO]: kebaboba left the game
+[23:29:00] [Server thread/INFO]: RRhypz lost connection: Disconnected
+[23:29:00] [Server thread/INFO]: RRhypz left the game
+[23:29:01] [Server thread/INFO]: Janraion lost connection: Disconnected
+[23:29:01] [Server thread/INFO]: Janraion left the game
+[23:29:29] [User Authenticator #37/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[23:29:31] [Server thread/INFO]: RRhypz joined the game
+[23:29:31] [Server thread/INFO]: RRhypz[/172.18.0.1:39576] logged in with entity id 453908 at ([world]-1025.8535492163871, -15.5, -786.4407387998699)
+[23:29:44] [User Authenticator #37/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[23:29:44] [Server thread/INFO]: Janraion joined the game
+[23:29:44] [Server thread/INFO]: Janraion[/172.18.0.1:35474] logged in with entity id 453946 at ([world]-1027.9941185802425, -15.0, -786.8268747884292)
+[23:30:38] [User Authenticator #37/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[23:30:39] [Server thread/INFO]: kebaboba joined the game
+[23:30:39] [Server thread/INFO]: kebaboba[/172.18.0.1:41200] logged in with entity id 454222 at ([world]-1031.983373546895, -15.0, -793.4251001066038)
+[23:32:43] [Server thread/INFO]: Janraion has made the advancement [Under Lock and Key]
+[23:33:43] [Server thread/INFO]: Janraion lost connection: Timed out
+[23:33:43] [Server thread/INFO]: Janraion left the game
+[23:33:43] [Server thread/INFO]: kebaboba lost connection: Timed out
+[23:33:43] [Netty Epoll Server IO #0/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[23:33:43] [Server thread/INFO]: kebaboba left the game
+[23:33:43] [Server thread/INFO]: B0B01K4 lost connection: Timed out
+[23:33:43] [Server thread/INFO]: B0B01K4 left the game
+[23:33:43] [Server thread/INFO]: RRhypz lost connection: Timed out
+[23:33:43] [Server thread/INFO]: RRhypz left the game
+[23:33:58] [User Authenticator #38/INFO]: UUID of player B0B01K4 is 97eff7b5-1c0b-3772-89d0-15a77582ded8
+[23:33:59] [Server thread/INFO]: B0B01K4 joined the game
+[23:33:59] [Server thread/INFO]: B0B01K4[/172.18.0.1:41140] logged in with entity id 454974 at ([world]-1018.4875000119209, -23.94999995827675, -781.1148976043187)
+[23:34:05] [User Authenticator #38/INFO]: UUID of player kebaboba is 704bd6a7-c9e2-3451-8b98-ff45330f9fc3
+[23:34:06] [Server thread/INFO]: kebaboba joined the game
+[23:34:06] [Server thread/INFO]: kebaboba[/172.18.0.1:42632] logged in with entity id 455202 at ([world]-1018.4875000119209, -20.798799921274217, -781.4030944259579)
+[23:34:13] [User Authenticator #38/INFO]: UUID of player RRhypz is 8796bf3b-324a-35f6-ae23-038a5f2af62c
+[23:34:13] [Server thread/INFO]: RRhypz joined the game
+[23:34:13] [Server thread/INFO]: RRhypz[/172.18.0.1:55598] logged in with entity id 455216 at ([world]-1030.512499988079, -20.025999927520786, -781.6923213228686)
+[23:34:20] [User Authenticator #38/INFO]: UUID of player Janraion is 95f40f48-e617-3ab7-b05a-4618a08c94f0
+[23:34:20] [Server thread/INFO]: Janraion joined the game
+[23:34:20] [Server thread/INFO]: Janraion[/172.18.0.1:55632] logged in with entity id 455229 at ([world]-1027.947587530673, -10.0, -734.385157795432)
+[23:40:20] [Server thread/INFO]: Janraion has reached the goal [Revaulting]
+[23:42:26] [Server thread/INFO]: kebaboba has reached the goal [Revaulting]
+[23:47:24] [Server thread/INFO]: RRhypz has reached the goal [Revaulting]
+[23:50:46] [Server thread/INFO]: B0B01K4 has reached the goal [Revaulting]
